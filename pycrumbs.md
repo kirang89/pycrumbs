@@ -6,9 +6,8 @@
 * http://newcoder.io/
 * http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/
 * http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources
-* http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/
+* http://learnxinyminutes.com/docs/python/
 * http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks
-* http://showmedo.com/videotutorials/python
 
 ##Dictionary
 * http://bugs.python.org/file6941/dictnotes.txt
@@ -50,9 +49,9 @@
 * http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/
 * http://architects.dzone.com/articles/scraping-pdf-text-python
 
-## Databases
+##Databases
 
-#### SQLAlchemy
+###SQLAlchemy
 * http://www.aosabook.org/en/sqlalchemy.html
 * http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/
 
@@ -64,6 +63,9 @@
 
 ##Distributed Systems
 * http://architects.dzone.com/articles/gevent-zeromq
+
+##Debugging
+* http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/
 
 ##Deployment
 ###Fabric
