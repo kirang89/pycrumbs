@@ -50,6 +50,12 @@
 * http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/
 * http://architects.dzone.com/articles/scraping-pdf-text-python
 
+## Databases
+
+#### SQLAlchemy
+* http://www.aosabook.org/en/sqlalchemy.html
+* http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/
+
 ##Data Mining
 * http://architects.dzone.com/articles/linux-system-mining-python
 
