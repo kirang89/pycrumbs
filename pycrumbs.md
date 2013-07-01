@@ -4,10 +4,11 @@
 * http://wiki.python.org/moin/BeginnersGuide
 * http://www.pythonforbeginners.com/
 * http://newcoder.io/
-* http://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/
+* http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/
 * http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources
 * http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/
 * http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks
+* http://showmedo.com/videotutorials/python
 
 ##Dictionary
 * http://bugs.python.org/file6941/dictnotes.txt
@@ -19,6 +20,10 @@
 
 ##Yield
 * http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained
+
+##Unicode
+* http://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/
+* http://nedbatchelder.com/text/unipain.html
 
 ##Metaclasses
 * http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/
@@ -34,6 +39,9 @@
 
 ####Web2Py
 * http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/
+
+####Django
+* http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/
 
 ###API and Web Services
 * http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/
@@ -59,8 +67,13 @@
 * http://wiki.python.org/moin/Python2orPython3
 
 ##Books
+###Free
 * http://pythonbooks.revolunet.com/
 * http://inventwithpython.com/chapters/
+* http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
+
+###Paid
+* http://wiki.python.org/moin/PythonBooks
 
 ##Discussions
 * https://news.ycombinator.com/item?id=3746692
