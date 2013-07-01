@@ -81,9 +81,17 @@
 * http://stackoverflow.com/questions/92230/python-beyond-the-basics
 * http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
 
-##PyCon
+##Conferences and events
+* http://www.pycon.org/
+* http://lanyrd.com/topics/python/
+* http://lanyrd.com/topics/django/
+* http://python.meetup.com/
+* http://django.meetup.com/
+
 ###Videos
-* http://pyvideo.org
+* http://pyvideo.org/
+* http://lanyrd.com/topics/python/video/
+* http://showmedo.com/videotutorials/python
 
 ##Miscellaneous
 * http://jessenoller.com/good-to-great-python-reads/
