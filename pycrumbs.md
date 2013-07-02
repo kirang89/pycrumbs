@@ -23,6 +23,7 @@
 ##Unicode
 * http://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/
 * http://nedbatchelder.com/text/unipain.html
+* http://eric.themoritzfamily.com/python-encodings-and-unicode.html
 
 ##Metaclasses
 * http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/
@@ -79,6 +80,7 @@
 * http://pythonbooks.revolunet.com/
 * http://inventwithpython.com/chapters/
 * http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
+* http://learnpythonthehardway.org/
 
 ###Paid
 * http://wiki.python.org/moin/PythonBooks
@@ -88,6 +90,8 @@
 * https://news.ycombinator.com/item?id=5944863
 * http://stackoverflow.com/questions/92230/python-beyond-the-basics
 * http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
+* http://stackoverflow.com/questions/228181/zen-of-python
+* http://stackoverflow.com/questions/101268/hidden-features-of-python
 
 ##Conferences and events
 * http://www.pycon.org/
