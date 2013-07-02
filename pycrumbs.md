@@ -80,7 +80,6 @@
 * http://pythonbooks.revolunet.com/
 * http://inventwithpython.com/chapters/
 * http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
-* http://learnpythonthehardway.org/
 
 ###Paid
 * http://wiki.python.org/moin/PythonBooks
