@@ -49,6 +49,13 @@
 * http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/
 * http://architects.dzone.com/articles/scraping-pdf-text-python
 
+##Mobile Development
+###Kivy
+* http://archlinux.me/dusty/2013/06/13/creating-an-application-in-kivy-part-1/
+
+##Image Processing
+* http://www.riisen.dk/dop/pil.html
+
 ##Databases
 
 ###SQLAlchemy
@@ -58,7 +65,7 @@
 ##Data Mining
 * http://architects.dzone.com/articles/linux-system-mining-python
 
-##Concurrency Pattern
+##Concurrency Patterns
 * http://python.dzone.com/articles/wasps-nest-lock-free
 
 ##Distributed Systems
