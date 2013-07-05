@@ -10,6 +10,7 @@
 * http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks
 
 ##Dictionary
+* http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order
 * http://bugs.python.org/file6941/dictnotes.txt
 
 ##Decorators
@@ -31,7 +32,7 @@
 ##Web
 * http://mrjoes.github.io/2013/06/21/python-realtime.html
 
-###Web Frameworks
+###Frameworks
 ####Flask
 * http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html
 * http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
@@ -56,6 +57,10 @@
 ##Image Processing
 * http://www.riisen.dk/dop/pil.html
 
+##WSGI
+* http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/
+* http://agiliq.com/blog/2013/07/basics-wsgi/
+
 ##Databases
 
 ###SQLAlchemy
@@ -64,6 +69,11 @@
 
 ##Data Mining
 * http://architects.dzone.com/articles/linux-system-mining-python
+
+##Data Analysis
+###Pandas
+* http://pandas.pydata.org/pandas-docs/stable/10min.html
+* http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
 
 ##Concurrency Patterns
 * http://python.dzone.com/articles/wasps-nest-lock-free
