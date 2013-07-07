@@ -103,7 +103,7 @@
 ##Books
 ###Free
 * http://pythonbooks.revolunet.com/
-* [Invent with Python]http://inventwithpython.com/chapters/
+* [Invent with Python](http://inventwithpython.com/chapters/)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
 * [Snake Wrangling for Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
