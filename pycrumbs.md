@@ -1,13 +1,15 @@
 ##Beginner's Delight
+* http://wiki.python.org/moin/BeginnersGuide
 * http://learnpythonthehardway.org/book/
 * http://docs.python-guide.org/en/latest/
-* http://wiki.python.org/moin/BeginnersGuide
+* https://developers.google.com/edu/python/
 * http://www.pythonforbeginners.com/
 * http://newcoder.io/
 * http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/
 * http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources
 * http://learnxinyminutes.com/docs/python/
 * http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks
+* http://blog.amir.rachum.com/post/54770419679/python-common-newbie-mistakes-part-1
 
 ##Dictionary
 * http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order
@@ -42,7 +44,13 @@
 * http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/
 
 ####Django
+* https://docs.djangoproject.com/en/1.5/
+* http://gettingstartedwithdjango.com/
+* http://www.djangobook.com/en/2.0/index.html
 * http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/
+* http://ontwik.com/python/djangos-architecture-the-good-the-bad-and-the-ugly/
+* http://www.lightbird.net/dbe/
+* http://showmedo.com/videotutorials/series?name=PPN7NA155
 
 ###API and Web Services
 * http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/
