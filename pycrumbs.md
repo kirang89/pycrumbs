@@ -103,7 +103,12 @@
 ##Books
 ###Free
 * http://pythonbooks.revolunet.com/
-* http://inventwithpython.com/chapters/
+* [Invent with Python]http://inventwithpython.com/chapters/
+* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
+* [Snake Wrangling for Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
+* [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](http://www.brpreiss.com/books/opus7/html/book.html)
+* http://en.wikibooks.org/wiki/Python_Programming
 * http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
 
 ###Paid
@@ -124,7 +129,8 @@
 * http://python.meetup.com/
 * http://django.meetup.com/
 
-###Videos
+##Videos
+* [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * http://pyvideo.org/
 * http://lanyrd.com/topics/python/video/
 * http://showmedo.com/videotutorials/python
