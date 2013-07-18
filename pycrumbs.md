@@ -8,13 +8,14 @@
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
-* [Beginner projects for a python beginner](http://newcoder.io/)
+* [Beginner projects for a python newbie](http://newcoder.io/)
 * http://learnxinyminutes.com/docs/python/
 * [Facts and myths about Python names and values](http://nedbatchelder.com/text/names.html)
 * [Common newbie mistakes in Python- Part 1](http://blog.amir.rachum.com/post/54770419679/python-common-newbie-mistakes-part-1)
+* [Common newbie mistakes in Python- Part 2](http://blog.amir.rachum.com/post/55024295793/python-common-newbie-mistakes-part-2)
+* [PySchools](http://www.pyschools.com/)
 * [Some cool Python Tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks)
 * http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth
-
 
 ##Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
@@ -24,6 +25,9 @@
 * [Common uses of Python decorators](http://www.quora.com/Python-programming-language-1/What-are-common-uses-of-Python-decorators)
 * http://pythonconquerstheuniverse.wordpress.com/2012/04/29/python-decorators/
 * [Decorators and annotations](http://blog.mattalcock.com/2013/1/5/decorates-and-annotations/)
+* [The dark side of decorators](http://apiguy.github.io/blog/2013/06/03/the-dark-side-of-decorators/)
+* [Thinking out aloud: Python decorators](http://curiosityhealsthecat.blogspot.in/2013/06/thinking-out-aloud-python-decorators_8528.html)
+* [Using Python decorators for registering callbacks](http://curiosityhealsthecat.blogspot.in/2013/07/using-python-decorators-for-registering_8614.html)
 
 ##Yield
 * [Python yield keyword explained](http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained)
@@ -32,10 +36,15 @@
 * [Explain Unicode like I'm five years old](http://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/)
 * [Unicode Pain](http://nedbatchelder.com/text/unipain.html)
 * [Python encodings and Unicode](http://eric.themoritzfamily.com/python-encodings-and-unicode.html)
+* [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
 
 ##Metaclasses
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
 * [What is a metaclass in Python ?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+
+##Documentation
+###Sphinx
+* [Quick Sphinx documentation for Python](http://scriptsonscripts.blogspot.in/2012/09/quick-sphinx-documentation-for-python.html)
 
 ##Web
 * [Python and Realtime Web](http://mrjoes.github.io/2013/06/21/python-realtime.html)
@@ -56,6 +65,9 @@
 * [Django Architecture: The good, bad and ugly](http://ontwik.com/python/djangos-architecture-the-good-the-bad-and-the-ugly/)
 * http://www.lightbird.net/dbe/
 * http://showmedo.com/videotutorials/series?name=PPN7NA155
+
+####Bottle
+* [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
 
 ###API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
@@ -105,6 +117,9 @@
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
 
+##Porting to Python 3
+* http://python3porting.com/
+
 ##Books
 ###Free
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
@@ -136,9 +151,10 @@
 
 ##Videos
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
-* http://pyvideo.org/
+* [PyVideo](http://pyvideo.org/)
 * http://lanyrd.com/topics/python/video/
 * http://showmedo.com/videotutorials/python
+* [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
 
 ##Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
