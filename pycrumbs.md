@@ -85,6 +85,7 @@
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
 * [How I structure my Flask apps](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
+* [Rapid Web Prototyping with Lightweight Tools](http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
