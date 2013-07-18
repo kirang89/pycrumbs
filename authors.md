@@ -4,3 +4,4 @@
 * Simon Willison
 * Stefane Fermigier
 * Vivek Agarwal
+* Hans Petur Jonsson

@@ -160,6 +160,7 @@
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Python programming on wikibooks](http://en.wikibooks.org/wiki/Python_Programming)
 * http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
+* [Dive Into Python 3](http://getpython3.com/diveintopython3/)
 
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
