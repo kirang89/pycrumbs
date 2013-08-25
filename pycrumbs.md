@@ -97,6 +97,7 @@
 * [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
 * [How I structure my Flask apps](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
 * [Designing a RESTful API using Flask-RESTful](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
+* [Rapid Web Prototyping with Lightweight Tools](http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
@@ -172,6 +173,7 @@
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Python programming on wikibooks](http://en.wikibooks.org/wiki/Python_Programming)
 * http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
+* [Dive Into Python 3](http://getpython3.com/diveintopython3/)
 
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
