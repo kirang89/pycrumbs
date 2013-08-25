@@ -1,16 +1,20 @@
 ##Beginner's Delight
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
-* [The official documentation](http://docs.python-guide.org/en/latest/)
+* [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 * [Google's Python class](https://developers.google.com/edu/python/)
 * [Python for Beginners](http://www.pythonforbeginners.com/)
+* [Python tracks at Codecademy](http://www.codecademy.com/tracks/python)
 * [Python Monk](http://pythonmonk.com/)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
+* [LearnStreet Python course](http://www.learnstreet.com/lessons/study/python)
 * [Beginner projects for a python newbie](http://newcoder.io/)
-* http://learnxinyminutes.com/docs/python/
+* [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
+* [Python Practice book](http://anandology.com/python-practice-book/)
 * [Facts and myths about Python names and values](http://nedbatchelder.com/text/names.html)
+* [*args and **kwargs in python explained](http://freepythontips.wordpress.com/2013/08/04/args-and-kwargs-in-python-explained/)
 * [Common newbie mistakes in Python- Part 1](http://blog.amir.rachum.com/post/54770419679/python-common-newbie-mistakes-part-1)
 * [Common newbie mistakes in Python- Part 2](http://blog.amir.rachum.com/post/55024295793/python-common-newbie-mistakes-part-2)
 * [PySchools](http://www.pyschools.com/)
@@ -19,6 +23,10 @@
 * [Better Python APIs](http://ozkatz.github.io/better-python-apis.html)
 * [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
+
+##Style Guide and Idioms
+* [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
+* [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
 ##Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
@@ -72,6 +80,9 @@
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
+##Packaging
+* [Sharing Your Labor of Love: PyPI Quick And Dirty](http://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
+
 ##Deployment
 ###Fabric
 * [Using Fabric in a development environment](http://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-a-development-environment/)
@@ -85,6 +96,7 @@
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
 * [How I structure my Flask apps](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
+* [Designing a RESTful API using Flask-RESTful](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
