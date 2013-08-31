@@ -105,7 +105,6 @@
 ####Django
 * [The official Django documentation](https://docs.djangoproject.com/en/1.5/)
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
-* [Djangobook](http://www.djangobook.com/en/2.0/index.html)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Django Architecture: The good, bad and ugly](http://ontwik.com/python/djangos-architecture-the-good-the-bad-and-the-ugly/)
 * http://www.lightbird.net/dbe/
