@@ -46,6 +46,7 @@
 
 ##Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
+* [Delegating to a Subgenerator in Python 3](http://docs.python.org/3/whatsnew/3.3.html#pep-380-syntax-for-delegating-to-a-subgenerator)
 
 ##Yield
 * [Python yield keyword explained](http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained)
