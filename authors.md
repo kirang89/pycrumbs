@@ -6,3 +6,4 @@
 * Vivek Agarwal
 * Hans Petur Jonsson
 * Audrey Roy
+* Aaron Hill
