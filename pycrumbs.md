@@ -212,5 +212,5 @@
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
-* [Projects - A list of pactical projects](https://github.com/thekarangoel/Projects)
+* [Projects - A list of practical projects](https://github.com/thekarangoel/Projects)
 
