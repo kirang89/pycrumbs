@@ -206,6 +206,7 @@
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Sublime Text 2 Love by Kenneth Reitz](http://kennethreitz.org/sublime-text-2-love/)
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
+* [PyCharm](http://www.jetbrains.com/pycharm/)
 
 ##Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
