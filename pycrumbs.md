@@ -79,6 +79,7 @@
 * [Nose Introduction](http://pythontesting.net/framework/nose/nose-introduction/)
 * [Unittest Introduction](http://pythontesting.net/framework/unittest/unittest-introduction/)
 * [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst)
+* [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
