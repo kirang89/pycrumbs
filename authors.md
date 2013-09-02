@@ -7,3 +7,4 @@
 * Hans Petur Jonsson
 * Audrey Roy
 * Karan Goel
+* Aaron Hill
