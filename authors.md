@@ -9,3 +9,4 @@
 * Karan Goel
 * Aaron Hill
 * Augustus D'Souza
+* Philippe Ndiaye
