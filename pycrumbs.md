@@ -130,6 +130,14 @@
 ###Kivy
 * [Creating an app in Kivy](http://archlinux.me/dusty/2013/06/13/creating-an-application-in-kivy-part-1/)
 
+##Google Glass
+###Resources
+* [The official Python Quick Start for Google Glass](https://developers.google.com/glass/quickstart/python)
+
+###Libraries
+####glass.py
+* [Create python web applications for Google Glass](https://github.com/SamyPesse/glass.py)
+
 ##Image Processing
 * http://www.riisen.dk/dop/pil.html
 

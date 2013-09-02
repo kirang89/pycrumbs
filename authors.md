@@ -8,3 +8,4 @@
 * Audrey Roy
 * Karan Goel
 * Aaron Hill
+* Augustus D'Souza
