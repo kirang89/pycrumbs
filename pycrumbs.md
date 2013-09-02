@@ -213,4 +213,5 @@
 * [What are some good Python interview questions ?](http://www.quora.com/What-are-good-Python-interview-questions)
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
 * [Projects - A list of pactical projects](https://github.com/thekarangoel/Projects)
+* [More Python Tutorials](http://awaretek.com/tutorials.html)
 
