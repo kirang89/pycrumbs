@@ -10,3 +10,6 @@
 * Aaron Hill
 * Augustus D'Souza
 * Philippe Ndiaye
+* Lukas Šalkauskas
+* Natan L
+* David J. Felix
