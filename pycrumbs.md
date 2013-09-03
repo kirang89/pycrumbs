@@ -23,6 +23,7 @@
 * [Better Python APIs](http://ozkatz.github.io/better-python-apis.html)
 * [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
+* [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -59,6 +60,9 @@
 * [Unicode Pain](http://nedbatchelder.com/text/unipain.html)
 * [Python encodings and Unicode](http://eric.themoritzfamily.com/python-encodings-and-unicode.html)
 * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
+
+##Networking
+* [An intro to Python socket network programming](http://freepythontips.wordpress.com/2013/08/06/python-socket-network-programming/)
 
 ##Metaclasses
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
@@ -225,4 +229,6 @@
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
 * [Projects - A list of practical projects](https://github.com/thekarangoel/Projects)
 * [More Python Tutorials](http://awaretek.com/tutorials.html)
+* [Simple Sudoku solver in python](http://freepythontips.wordpress.com/2013/09/01/sudoku-solver-in-python/)
+* [Looking Inside Dropbox – Security whitepaper](http://freepythontips.wordpress.com/2013/08/30/looking-inside-dropbox-whitepaper/)
 
