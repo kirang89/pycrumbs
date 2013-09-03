@@ -162,6 +162,7 @@
 ###Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
 ##Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
@@ -172,6 +173,7 @@
 
 ##Distributed Systems
 * http://architects.dzone.com/articles/gevent-zeromq
+* [Celery: Distributed Task Queue](Celery: Distributed Task Queue)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
