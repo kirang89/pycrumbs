@@ -162,6 +162,7 @@
 ###Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
 ##Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
@@ -172,6 +173,7 @@
 
 ##Distributed Systems
 * http://architects.dzone.com/articles/gevent-zeromq
+* [Celery: Distributed Task Queue](Celery: Distributed Task Queue)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
@@ -221,6 +223,9 @@
 * [Sublime Text 2 Love by Kenneth Reitz](http://kennethreitz.org/sublime-text-2-love/)
 * [Sublime Text 2 tips for Python and web developers](http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/)
 * [PyCharm](http://www.jetbrains.com/pycharm/)
+
+##BigData
+* [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
 
 ##Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
