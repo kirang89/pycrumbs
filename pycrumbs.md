@@ -3,9 +3,10 @@
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
 * [Google's Python class](https://developers.google.com/edu/python/)
-* [Python for Beginners](http://www.pythonforbeginners.com/)
 * [Python tracks at Codecademy](http://www.codecademy.com/tracks/python)
 * [Python Monk](http://pythonmonk.com/)
+* [Python Practice Book by Anand Chitipothu](http://anandology.com/python-practice-book/getting-started.html)
+* [Python for Beginners](http://www.pythonforbeginners.com/)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
@@ -25,6 +26,9 @@
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
+
+##Curated Python resources from other websites
+* [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -120,6 +124,7 @@
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Django Architecture: The good, bad and ugly](http://ontwik.com/python/djangos-architecture-the-good-the-bad-and-the-ugly/)
+* [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * http://www.lightbird.net/dbe/
 * http://showmedo.com/videotutorials/series?name=PPN7NA155
 
