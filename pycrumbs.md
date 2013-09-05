@@ -5,7 +5,6 @@
 * [Google's Python class](https://developers.google.com/edu/python/)
 * [Python tracks at Codecademy](http://www.codecademy.com/tracks/python)
 * [Python Monk](http://pythonmonk.com/)
-* [Python Practice Book by Anand Chitipothu](http://anandology.com/python-practice-book/getting-started.html)
 * [Python for Beginners](http://www.pythonforbeginners.com/)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
