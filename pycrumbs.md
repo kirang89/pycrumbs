@@ -24,6 +24,7 @@
 * [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
+* [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
 
 ##Curated Python resources from other websites
 * [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
@@ -152,6 +153,10 @@
 ##Image Processing
 * http://www.riisen.dk/dop/pil.html
 
+##GUI Programming
+* [PyQt Tutorial](http://zetcode.com/tutorials/pyqt4/)
+
+
 ##WSGI
 * [Getting started with WSGI](http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/)
 * [WSGI Basics](http://agiliq.com/blog/2013/07/basics-wsgi/)
@@ -199,6 +204,7 @@
 * [Python programming on wikibooks](http://en.wikibooks.org/wiki/Python_Programming)
 * http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
