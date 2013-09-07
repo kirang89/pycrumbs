@@ -249,4 +249,6 @@
 * [More Python Tutorials](http://awaretek.com/tutorials.html)
 * [Simple Sudoku solver in python](http://freepythontips.wordpress.com/2013/09/01/sudoku-solver-in-python/)
 * [Looking Inside Dropbox – Security whitepaper](http://freepythontips.wordpress.com/2013/08/30/looking-inside-dropbox-whitepaper/)
+* [Why sorting an array makes a Python loop faster](http://rickystewart.wordpress.com/2013/09/03/why-sorting-an-array-makes-a-python-loop-faster/)
+* [Python Integer object implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 
