@@ -25,6 +25,9 @@
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
+* [Efficient String Concatenation in Python](http://www.skymind.com/~ocrow/python_string/)
+* [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
+* [Building an open-source Python application the right way](http://kirang.in/2013/09/09/building-an-open-source-python-application-the-right-way/)
 
 ##Curated Python resources from other websites
 * [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
@@ -91,20 +94,28 @@
 * [Unittest Introduction](http://pythontesting.net/framework/unittest/unittest-introduction/)
 * [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst)
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
+* [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
 ##Packaging
+* [The Hitchhiker’s Guide to Packaging](http://guide.python-distribute.org/)
 * [Sharing Your Labor of Love: PyPI Quick And Dirty](http://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
 * [Open Sourcing a Python Project the Right Way](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+* [5 tips for packaging your Python projects](http://ziade.org/2011/08/19/5-tips-for-packaging-your-python-projects/)
+* [AOSA: Python Packaging](http://www.aosabook.org/en/packaging.html)
+* [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
 
 ##Deployment
+* [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
+
 ###Fabric
 * [Using Fabric in a development environment](http://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-a-development-environment/)
 
 ##Web
 * [Python and Realtime Web](http://mrjoes.github.io/2013/06/21/python-realtime.html)
+* [List of Python API’s](http://www.pythonapi.com/)
 
 ###Frameworks
 ####Flask
@@ -114,6 +125,7 @@
 * [How I structure my Flask apps](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
 * [Designing a RESTful API using Flask-RESTful](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 * [Rapid Web Prototyping with Lightweight Tools](http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools)
+* [Build a Simple, Static, Markdown-Powered Blog with Flask](http://www.jamesharding.ca/posts/simple-static-markdown-blog-in-flask/)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
@@ -124,6 +136,7 @@
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Django Architecture: The good, bad and ugly](http://ontwik.com/python/djangos-architecture-the-good-the-bad-and-the-ugly/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
+* [Deploying Django](http://www.rdegges.com/deploying-django/)
 * http://www.lightbird.net/dbe/
 * http://showmedo.com/videotutorials/series?name=PPN7NA155
 
@@ -155,7 +168,6 @@
 
 ##GUI Programming
 * [PyQt Tutorial](http://zetcode.com/tutorials/pyqt4/)
-
 
 ##WSGI
 * [Getting started with WSGI](http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/)
