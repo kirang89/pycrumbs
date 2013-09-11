@@ -1,10 +1,3 @@
-#Contents
-* [Beginner's Delight](#beginners-delight)
-* []()
-* []()
-* []()[]()
-* [](#curated-python-resources-from-other-websites)
-
 ##Beginner's Delight
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
