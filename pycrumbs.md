@@ -1,3 +1,60 @@
+#Contents
+* [Beginner's Delight](#beginners-delight)
+* [Style Guide and Idioms](#style-guide-and-idioms)
+* [Dictionary](#dictionary)
+* [Decorators](#decorators)
+* [Generators](#generators)
+* [Iterators](#iterators)
+* [Yield](#yield)
+* [Context Managers](#context-managers)
+* [Unicode](#unicode)
+* [Networking](#networking)
+* [Metaclasses](#metaclasses)
+* [Documentation](#documentation)
+    * [Sphinx](#sphinx)
+* [Debugging](#debugging)
+* [Testing](#testing)
+* [Profiling](#profiling)
+* [Packaging](#packaging)
+* [Deployment](#deployment)
+    * [Fabric](#fabric)
+* [Web](#web)
+    * [Frameworks](#frameworks)
+        * [Flask](#flask)
+        * [Web2Py](#web2py)
+        * [Django](#django)
+        * [Bottle](#bottle)
+    * [API and Web Services](#api-and-web-services)
+    * [Scraping](#scraping)
+* [Mobile Development](#mobile-development)
+    * [Kivy](#kivy)
+* [Google Glass](#google-glass)
+    * [Resources](#resources)
+    * [Libraries](#libraries)
+* [GUI Programming](#gui-programming)
+* [WSGI](#wsgi)
+* [Databases](#databases)
+    * [SQLAlchemy](#sqlalchemy)
+* [Data Mining](#data-mining)
+* [Data Analysis](#data-analysis)
+    * [Pandas](#pandas)
+* [Design Patterns](#design-patterns)
+    * [Concurrency Patterns](#concurrency-patterns)
+* [Distributed Systems](#distributed-systems)
+* [Python 2 vs Python 3](#python-2-vs-3)
+* [Porting to Python 3](#porting-to-python-3)
+* [Books](#books)
+    * [Free](#free)
+    * [Paid](#paid)
+* [Discussions](#discussions)
+* [Conferences and Events](#conferences-and-events)
+* [Videos](#videos)
+* [Editors and IDE's for Python programming](#editors-and-ides-for-python-programming)
+* [Big Data](#bigdata)
+* [Curated Python resources from other websites](#curated-python-resources-from-other-websites)
+* [Miscellaneous](#miscellaneous)
+
+
 ##Beginner's Delight
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
@@ -28,9 +85,6 @@
 * [Efficient String Concatenation in Python](http://www.skymind.com/~ocrow/python_string/)
 * [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
 * [Building an open-source Python application the right way](http://kirang.in/2013/09/09/building-an-open-source-python-application-the-right-way/)
-
-##Curated Python resources from other websites
-* [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -252,6 +306,9 @@
 ##BigData
 * [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
 
+##Curated Python resources from other websites
+* [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
+
 ##Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
 * [How to Create Barcodes in Your PDFs with Python](http://java.dzone.com/articles/how-create-barcodes-your-pdfs)
@@ -263,4 +320,6 @@
 * [Looking Inside Dropbox – Security whitepaper](http://freepythontips.wordpress.com/2013/08/30/looking-inside-dropbox-whitepaper/)
 * [Why sorting an array makes a Python loop faster](http://rickystewart.wordpress.com/2013/09/03/why-sorting-an-array-makes-a-python-loop-faster/)
 * [Python Integer object implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
+* [The history of Python - Blog](http://python-history.blogspot.in/)
+* [The ever useful and neat subprocess module](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
 
