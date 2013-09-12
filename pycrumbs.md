@@ -18,6 +18,7 @@
 * [Packaging](#packaging)
 * [Deployment](#deployment)
     * [Fabric](#fabric)
+* [Warts and Gotchas](#warts-and-gotchas)
 * [Web](#web)
     * [Frameworks](#frameworks)
         * [Flask](#flask)
@@ -78,13 +79,13 @@
 * [Some cool Python Tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks)
 * http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth
 * [Better Python APIs](http://ozkatz.github.io/better-python-apis.html)
-* [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
 * [Efficient String Concatenation in Python](http://www.skymind.com/~ocrow/python_string/)
 * [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
 * [Building an open-source Python application the right way](http://kirang.in/2013/09/09/building-an-open-source-python-application-the-right-way/)
+* [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -105,6 +106,7 @@
 * [Thinking out aloud: Python decorators](http://curiosityhealsthecat.blogspot.in/2013/06/thinking-out-aloud-python-decorators_8528.html)
 * [Using Python decorators for registering callbacks](http://curiosityhealsthecat.blogspot.in/2013/07/using-python-decorators-for-registering_8614.html)
 * [Meta-matters: Using decorators for better Python programming](http://pydanny-event-notes.readthedocs.org/en/latest/PyconAU2011/decorators.html)
+* [How can I make a chain of function decorators in Python?](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 
 ##Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
@@ -166,6 +168,12 @@
 
 ###Fabric
 * [Using Fabric in a development environment](http://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-a-development-environment/)
+
+##Warts and Gotchas
+* [Python 2.x gotcha's and landmines](http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines)
+* [Python Warts](https://wiki.python.org/moin/PythonWarts)
+* [Python Gotchas](http://blog.artlogic.com/2013/04/12/python-gotchas/)
+* [Common Pitfalls in Python](http://stackoverflow.com/questions/1011431/common-pitfalls-in-python/1321075#1321075)
 
 ##Web
 * [Python and Realtime Web](http://mrjoes.github.io/2013/06/21/python-realtime.html)
@@ -322,4 +330,5 @@
 * [Python Integer object implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 * [The history of Python - Blog](http://python-history.blogspot.in/)
 * [The ever useful and neat subprocess module](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
+* [Hidden Features in Python](http://stackoverflow.com/questions/101268/hidden-features-of-python/111176)
 
