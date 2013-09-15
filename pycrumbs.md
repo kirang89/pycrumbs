@@ -301,6 +301,7 @@
 ##Videos
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [PyVideo](http://pyvideo.org/)
+* [Khan Academy - Introduction to programming and computer science using Python](https://www.khanacademy.org/science/computer-science)
 * http://lanyrd.com/topics/python/video/
 * http://showmedo.com/videotutorials/python
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
