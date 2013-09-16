@@ -43,7 +43,6 @@
     * [Concurrency Patterns](#concurrency-patterns)
 * [Distributed Systems](#distributed-systems)
 * [Python 2 vs Python 3](#python-2-vs-3)
-* [Porting to Python 3](#porting-to-python-3)
 * [Books](#books)
     * [Free](#free)
     * [Paid](#paid)
@@ -162,6 +161,7 @@
 * [5 tips for packaging your Python projects](http://ziade.org/2011/08/19/5-tips-for-packaging-your-python-projects/)
 * [AOSA: Python Packaging](http://www.aosabook.org/en/packaging.html)
 * [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
+* [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages)
 
 ##Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
@@ -258,14 +258,11 @@
 * [Wasp's Nest: The Read-Copy-Update Pattern In Python](http://emptysqua.re/blog/wasps-nest-read-copy-update-python/)
 
 ##Distributed Systems
-* http://architects.dzone.com/articles/gevent-zeromq
+* [Gevent and ZeroMQ](http://architects.dzone.com/articles/gevent-zeromq)
 * [Celery: Distributed Task Queue](Celery: Distributed Task Queue)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
-
-##Porting to Python 3
-* http://python3porting.com/
 
 ##Books
 ###Free
@@ -276,34 +273,32 @@
 * [Snake Wrangling for Kids](http://www.briggs.net.nz/snake-wrangling-for-kids.html)
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](http://www.brpreiss.com/books/opus7/html/book.html)
 * [Python programming on wikibooks](http://en.wikibooks.org/wiki/Python_Programming)
-* http://readwrite.com/2011/03/25/python-is-an-increasingly-popu#awesm=~oalneJOKY2tp7U
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
+* [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
 ##Discussions
 * https://news.ycombinator.com/item?id=3746692
 * https://news.ycombinator.com/item?id=5944863
-* http://stackoverflow.com/questions/92230/python-beyond-the-basics
-* http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru
-* http://stackoverflow.com/questions/228181/zen-of-python
-* http://stackoverflow.com/questions/101268/hidden-features-of-python
+* [StackOverflow - Python beyond the basics](http://stackoverflow.com/questions/92230/python-beyond-the-basics)
+* [StackOverflow - Python progression path from apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+* [StackOverflow - Zen of Python](http://stackoverflow.com/questions/228181/zen-of-python)
+* [StackOverflow - Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
 ##Conferences and events
 * [Official PyCon website](http://www.pycon.org/)
-* http://lanyrd.com/topics/python/
-* http://lanyrd.com/topics/django/
-* http://python.meetup.com/
-* http://django.meetup.com/
+* [Lanyrd - Python Conference and Events](http://lanyrd.com/topics/python/)
+* [Meetup.com - Python Meetup Groups](http://python.meetup.com/)
 
 ##Videos
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [PyVideo](http://pyvideo.org/)
 * [Khan Academy - Introduction to programming and computer science using Python](https://www.khanacademy.org/science/computer-science)
-* http://lanyrd.com/topics/python/video/
-* http://showmedo.com/videotutorials/python
+* [Lanyrd - Python Videos](http://lanyrd.com/topics/python/video/)
+* [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
 
 ##Editors and IDE's for Python programming
