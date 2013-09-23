@@ -119,6 +119,7 @@
 
 ##Context Managers
 * [Understanding Python's with statement](http://effbot.org/zone/python-with-statement.htm)
+* [The Python "with" Statement by Example](http://preshing.com/20110920/the-python-with-statement-by-example/)
 
 ##Unicode
 * [Explain Unicode like I'm five years old](http://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/)
