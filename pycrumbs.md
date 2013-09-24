@@ -55,6 +55,7 @@
 * [Editors and IDE's for Python programming](#editors-and-ides-for-python-programming)
 * [Big Data](#bigdata)
 * [Curated Python resources from other websites](#curated-python-resources-from-other-websites)
+* [Newsletters](#newsletters)
 * [Miscellaneous](#miscellaneous)
 
 
@@ -344,6 +345,10 @@
 
 ##Curated Python resources from other websites
 * [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
+
+##Newsletters
+* [Pycoder's](http://pycoders.com/)
+* [Python Weekly](http://www.pythonweekly.com/)
 
 ##Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
