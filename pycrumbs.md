@@ -14,6 +14,7 @@
     * [Sphinx](#sphinx)
 * [Debugging](#debugging)
 * [Testing](#testing)
+* [Environment and Environment Management](#environment-and-environment-management)
 * [Profiling](#profiling)
 * [Packaging](#packaging)
 * [Deployment](#deployment)
@@ -152,6 +153,11 @@
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 * [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 
+##Environment and Enivronment Management
+*[virtualenv](http://www.virtualenv.org/en/latest/)
+*[Getting started with virtual env](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
+*[Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
+*[VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
