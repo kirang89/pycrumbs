@@ -170,6 +170,7 @@
 * [AOSA: Python Packaging](http://www.aosabook.org/en/packaging.html)
 * [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
 * [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages)
+* [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 ##Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
