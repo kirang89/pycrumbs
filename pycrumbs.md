@@ -158,7 +158,7 @@
 * [Getting started with virtual env](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
 * [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
-* 
+
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
