@@ -12,10 +12,10 @@
 * [Metaclasses](#metaclasses)
 * [Documentation](#documentation)
     * [Sphinx](#sphinx)
-* [Virtual Environments](#virtual-environments)
 * [Debugging](#debugging)
     * [Logging](#logging)
 * [Testing](#testing)
+* [Environment and Environment Management](#environments-and-environment-management)
 * [Profiling](#profiling)
 * [Packaging](#packaging)
 * [Deployment](#deployment)
@@ -146,7 +146,7 @@
 ###Sphinx
 * [Quick Sphinx documentation for Python](http://scriptsonscripts.blogspot.in/2012/09/quick-sphinx-documentation-for-python.html)
 
-## Virtual Environments
+## Environments and Environment Management
 * [Virtual Environments — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Virtualenv Tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A Primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
