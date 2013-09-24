@@ -13,6 +13,7 @@
 * [Documentation](#documentation)
     * [Sphinx](#sphinx)
 * [Debugging](#debugging)
+    * [Logging](#logging)
 * [Testing](#testing)
 * [Environment and Environment Management](#environment-and-environment-management)
 * [Profiling](#profiling)
@@ -44,6 +45,7 @@
     * [Concurrency Patterns](#concurrency-patterns)
 * [Distributed Systems](#distributed-systems)
 * [Python 2 vs Python 3](#python-2-vs-3)
+    * [Porting to Python 3](#porting-to-python-3)
 * [Books](#books)
     * [Free](#free)
     * [Paid](#paid)
@@ -108,6 +110,7 @@
 * [Using Python decorators for registering callbacks](http://curiosityhealsthecat.blogspot.in/2013/07/using-python-decorators-for-registering_8614.html)
 * [Meta-matters: Using decorators for better Python programming](http://pydanny-event-notes.readthedocs.org/en/latest/PyconAU2011/decorators.html)
 * [How can I make a chain of function decorators in Python?](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
+* [The Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary)
 
 ##Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
@@ -144,8 +147,18 @@
 ###Sphinx
 * [Quick Sphinx documentation for Python](http://scriptsonscripts.blogspot.in/2012/09/quick-sphinx-documentation-for-python.html)
 
+## Environments and Environment Management
+* [Virtual Environments — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+* [Virtualenv Tutorial](http://simononsoftware.com/virtualenv-tutorial/)
+* [A Primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
+* [How to use Python virtualenv](http://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv)
+* [Comprehensive beginner's virtualenv tutorial? - stackoverflow](http://stackoverflow.com/questions/5844869/comprehensive-beginners-virtualenv-tutorial)
+
 ##Debugging
 * [Debugging Tools in Python](http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
+
+###Logging
+* [Sentry - realtime event logging and aggregation platform](https://sentry.readthedocs.org/en/latest/index.html)
 
 ##Testing
 * [Nose Introduction](http://pythontesting.net/framework/nose/nose-introduction/)
@@ -278,6 +291,11 @@
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
+
+### Porting to Python 3
+* [How to support both Python 2 and 3](http://ondrejcertik.blogspot.com/2013/08/how-to-support-both-python-2-and-3.html)
+* [How CherryPy supports Python 2 and 3](http://pyvideo.org/video/689/how-cherrypy-supports-python-2-and-3)
+* [($) Porting to Python 3 - The Book Site](http://python3porting.com/)
 
 ##Books
 ###Free
