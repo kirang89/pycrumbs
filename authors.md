@@ -24,3 +24,5 @@
 * Ce Feng
 * Samidh
 * Manuel Gutierrez
+* Victor Felder
+
