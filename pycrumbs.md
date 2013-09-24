@@ -13,6 +13,7 @@
 * [Documentation](#documentation)
     * [Sphinx](#sphinx)
 * [Debugging](#debugging)
+    * [Logging](#logging)
 * [Testing](#testing)
 * [Profiling](#profiling)
 * [Packaging](#packaging)
@@ -144,6 +145,9 @@
 
 ##Debugging
 * [Debugging Tools in Python](http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
+
+###Logging
+* [Sentry - realtime event logging and aggregation platform](https://sentry.readthedocs.org/en/latest/index.html)
 
 ##Testing
 * [Nose Introduction](http://pythontesting.net/framework/nose/nose-introduction/)
