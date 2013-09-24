@@ -93,6 +93,7 @@
 ##Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
 * [Notes on dictionary implementation](http://bugs.python.org/file6941/dictnotes.txt)
+* [Python: The Dictionary Playbook](http://blog.amir.rachum.com/post/39501813266/python-the-dictionary-playbook)
 
 ##Decorators
 * [Understanding Python Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
