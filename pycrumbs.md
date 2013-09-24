@@ -208,7 +208,6 @@
 * [The official Django documentation](https://docs.djangoproject.com/en/1.5/)
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
-* [Django Architecture: The good, bad and ugly](http://ontwik.com/python/djangos-architecture-the-good-the-bad-and-the-ugly/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Deploying Django](http://www.rdegges.com/deploying-django/)
 * http://www.lightbird.net/dbe/
@@ -274,7 +273,7 @@
 
 ##Distributed Systems
 * [Gevent and ZeroMQ](http://architects.dzone.com/articles/gevent-zeromq)
-* [Celery: Distributed Task Queue](Celery: Distributed Task Queue)
+* [Celery: Distributed Task Queue](https://celery.readthedocs.org/en/latest/getting-started/index.html)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
