@@ -170,6 +170,8 @@
 * [AOSA: Python Packaging](http://www.aosabook.org/en/packaging.html)
 * [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
 * [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages)
+* [Py2app: Standalone Mac OS X applications](http://pythonhosted.org/py2app/)
+* [PyInstaller: Stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX](http://www.pyinstaller.org/)
 
 ##Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
@@ -238,6 +240,8 @@
 
 ##GUI Programming
 * [PyQt Tutorial](http://zetcode.com/tutorials/pyqt4/)
+* [Standalone executable for PyQt4 on Windows](http://www.py2exe.org/index.cgi/Py2exeAndPyQt)
+
 
 ##WSGI
 * [Getting started with WSGI](http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/)
