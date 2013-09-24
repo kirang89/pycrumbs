@@ -20,3 +20,7 @@
 * Sateesh Kumar
 * Pankaj Parashar
 * Johan Liu
+* Vatsala Dorairajan
+* Ce Feng
+* Samidh
+* Manuel Gutierrez

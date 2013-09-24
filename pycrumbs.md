@@ -15,7 +15,7 @@
 * [Debugging](#debugging)
     * [Logging](#logging)
 * [Testing](#testing)
-* [Environment and Environment Management](#environments-and-environment-management)
+* [Environment and Environment Management](#environment-and-environment-management)
 * [Profiling](#profiling)
 * [Packaging](#packaging)
 * [Deployment](#deployment)
@@ -96,6 +96,7 @@
 ##Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
 * [Notes on dictionary implementation](http://bugs.python.org/file6941/dictnotes.txt)
+* [Python: The Dictionary Playbook](http://blog.amir.rachum.com/post/39501813266/python-the-dictionary-playbook)
 
 ##Decorators
 * [Understanding Python Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
@@ -166,6 +167,12 @@
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 * [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 
+##Environment and Enivronment Management
+* [Virtualenv - The official documentation](http://www.virtualenv.org/en/latest/)
+* [Getting started with virtual env](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
+* [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
+* [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
+
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
 
@@ -177,6 +184,9 @@
 * [AOSA: Python Packaging](http://www.aosabook.org/en/packaging.html)
 * [The Package Dependency Blues](http://blog.miguelgrinberg.com/post/the-package-dependency-blues)
 * [5 Simple Rules For Building Great Python Packages](http://axialcorps.com/2013/08/29/5-simple-rules-for-building-great-python-packages)
+* [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+* [Py2app: Standalone Mac OS X applications](http://pythonhosted.org/py2app/)
+* [PyInstaller: Stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX](http://www.pyinstaller.org/)
 
 ##Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
@@ -226,6 +236,7 @@
 ###Scraping
 * [Web Scraping with BeautifulSoup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
 * [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
+* [Web Scraping with Scrapy Framework](http://doc.scrapy.org/en/latest/intro/tutorial.html)
 * [How to automatically search and download torrents with Python and Scrapy](http://fuzz-box.blogspot.in/2013/03/how-to-automatically-search-download-torrent-python-scrapy.html)
 
 ##Mobile Development
@@ -245,6 +256,8 @@
 
 ##GUI Programming
 * [PyQt Tutorial](http://zetcode.com/tutorials/pyqt4/)
+* [Standalone executable for PyQt4 on Windows](http://www.py2exe.org/index.cgi/Py2exeAndPyQt)
+
 
 ##WSGI
 * [Getting started with WSGI](http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/)
