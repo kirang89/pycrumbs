@@ -109,6 +109,7 @@
 * [Using Python decorators for registering callbacks](http://curiosityhealsthecat.blogspot.in/2013/07/using-python-decorators-for-registering_8614.html)
 * [Meta-matters: Using decorators for better Python programming](http://pydanny-event-notes.readthedocs.org/en/latest/PyconAU2011/decorators.html)
 * [How can I make a chain of function decorators in Python?](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
+* [The Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary)
 
 ##Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
