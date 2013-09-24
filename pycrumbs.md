@@ -211,7 +211,7 @@
 ###Scraping
 * [Web Scraping with BeautifulSoup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
 * [Web Scraping 101 with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
-* [Web Scraping with Scrapy](http://doc.scrapy.org/en/latest/intro/tutorial.html)
+* [Web Scraping with Scrapy Framework](http://doc.scrapy.org/en/latest/intro/tutorial.html)
 * [How to automatically search and download torrents with Python and Scrapy](http://fuzz-box.blogspot.in/2013/03/how-to-automatically-search-download-torrent-python-scrapy.html)
 
 ##Mobile Development
