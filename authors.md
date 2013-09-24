@@ -22,3 +22,5 @@
 * Johan Liu
 * Vatsala Dorairajan
 * Ce Feng
+* Samidh
+* Manuel Gutierrez
