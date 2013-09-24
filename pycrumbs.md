@@ -45,6 +45,7 @@
     * [Concurrency Patterns](#concurrency-patterns)
 * [Distributed Systems](#distributed-systems)
 * [Python 2 vs Python 3](#python-2-vs-3)
+    * [Porting to Python 3](#porting-to-python-3)
 * [Books](#books)
     * [Free](#free)
     * [Paid](#paid)
@@ -276,6 +277,11 @@
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
+
+### Porting to Python3
+* [How to support both Python 2 and 3](http://ondrejcertik.blogspot.com/2013/08/how-to-support-both-python-2-and-3.html)
+* [How CherryPy supports Python 2 and 3](http://pyvideo.org/video/689/how-cherrypy-supports-python-2-and-3)
+* [($) Porting to Python 3 - The Book Site](http://python3porting.com/)
 
 ##Books
 ###Free
