@@ -339,6 +339,7 @@
 * [PyCharm](http://www.jetbrains.com/pycharm/)
 * [Geany](http://geany.org/)
 * [Geany with pylint](http://michaeljaylissner.com/blog/using-pylint-in-geany)
+* [PyDev](http://pydev.org)
 
 ##BigData
 * [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
