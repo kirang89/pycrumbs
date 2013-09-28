@@ -90,6 +90,7 @@
 * [Building an open-source Python application the right way](http://kirang.in/2013/09/09/building-an-open-source-python-application-the-right-way/)
 * [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 * [Learn python through Test Driven Development](https://github.com/gregmalcolm/python_koans)
+* [A Gentle Introduction to Programming Using Python]http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
