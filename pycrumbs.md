@@ -254,8 +254,12 @@
 * http://www.riisen.dk/dop/pil.html
 
 ##GUI Programming
+* [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
 * [PyQt Tutorial](http://zetcode.com/tutorials/pyqt4/)
 * [Standalone executable for PyQt4 on Windows](http://www.py2exe.org/index.cgi/Py2exeAndPyQt)
+* [Kivy GUI for cross-platform applications](http://kivy.org/)
+* [EffBot.org Introduction to Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)
+* [Pytkgen: JSON to Tkinter GUI Generator](https://github.com/tmetsch/pytkgen)
 
 
 ##WSGI
