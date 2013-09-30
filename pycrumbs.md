@@ -49,6 +49,7 @@
 * [Books](#books)
     * [Free](#free)
     * [Paid](#paid)
+* [Online Courses](#online-courses)
 * [Discussions](#discussions)
 * [Conferences and Events](#conferences-and-events)
 * [Videos](#videos)
@@ -315,6 +316,9 @@
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
+
+##Online Courses
+* [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 
 ##Discussions
 * https://news.ycombinator.com/item?id=3746692
