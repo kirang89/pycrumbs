@@ -350,6 +350,8 @@
 * [Geany with pylint](http://michaeljaylissner.com/blog/using-pylint-in-geany)
 * [PyDev](http://pydev.org)
 * [Ninja-IDE](http://ninja-ide.org/)
+* [Emacs setup for python development environment](http://caisah.info/emacs-for-python/)
+* [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python)
 
 ##BigData
 * [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
