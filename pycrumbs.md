@@ -378,4 +378,4 @@
 * [The history of Python - Blog](http://python-history.blogspot.in/)
 * [The ever useful and neat subprocess module](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
 * [Hidden Features in Python](http://stackoverflow.com/questions/101268/hidden-features-of-python/111176)
-
+* [Python module of the week](http://pymotw.com/2/)
