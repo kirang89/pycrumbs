@@ -312,6 +312,7 @@
 * [Python programming on wikibooks](http://en.wikibooks.org/wiki/Python_Programming)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
+* [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
