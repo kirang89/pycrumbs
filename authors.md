@@ -29,3 +29,4 @@
 * Manuel E. Gutierrez
 * Jeroen van Wensen
 * Frank V
+* Hariharan Rangasamy
