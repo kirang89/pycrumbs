@@ -43,7 +43,7 @@
     * [Pandas](#pandas)
 * [Design Patterns](#design-patterns)
     * [Concurrency Patterns](#concurrency-patterns)
-* [Distributed Systems](#distributed-systems)
+* [Concurrency and Distributed Systems](#concurrency-and-distributed-systems)
 * [Python 2 vs Python 3](#python-2-vs-3)
     * [Porting to Python 3](#porting-to-python-3)
 * [Books](#books)
@@ -290,9 +290,10 @@
 * [Wasps Nest Pattern](http://python.dzone.com/articles/wasps-nest-lock-free)
 * [Wasp's Nest: The Read-Copy-Update Pattern In Python](http://emptysqua.re/blog/wasps-nest-read-copy-update-python/)
 
-##Distributed Systems
+##Concurrency and Distributed Systems
 * [Gevent and ZeroMQ](http://architects.dzone.com/articles/gevent-zeromq)
 * [Celery: Distributed Task Queue](https://celery.readthedocs.org/en/latest/getting-started/index.html)
+* [Gevent for the working Python developer](http://sdiehl.github.io/gevent-tutorial/)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
@@ -342,6 +343,7 @@
 * [Lanyrd - Python Videos](http://lanyrd.com/topics/python/video/)
 * [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
+* [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 
 ##Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
