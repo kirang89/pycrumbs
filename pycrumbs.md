@@ -344,6 +344,7 @@
 * [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
+* [The newboston site tutorial](http://thenewboston.org/list.php?cat=36)
 
 ##Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
@@ -382,4 +383,5 @@
 * [The ever useful and neat subprocess module](http://sharats.me/the-ever-useful-and-neat-subprocess-module.html)
 * [Hidden Features in Python](http://stackoverflow.com/questions/101268/hidden-features-of-python/111176)
 * [Python module of the week](http://pymotw.com/2/)
+* [Become a programmer](http://programming-motherfucker.com/become.html#Python)
 
