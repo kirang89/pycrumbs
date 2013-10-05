@@ -385,4 +385,5 @@
 * [Hidden Features in Python](http://stackoverflow.com/questions/101268/hidden-features-of-python/111176)
 * [Python module of the week](http://pymotw.com/2/)
 * [Become a programmer](http://programming-motherfucker.com/become.html#Python)
+* [Python tutor](http://pythontutor.com/)
 
