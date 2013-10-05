@@ -233,6 +233,7 @@
 
 ###API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
+* [Python API for various web services](http://www.pythonapi.com/)
 
 ###Scraping
 * [Web Scraping with BeautifulSoup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
@@ -384,4 +385,5 @@
 * [Hidden Features in Python](http://stackoverflow.com/questions/101268/hidden-features-of-python/111176)
 * [Python module of the week](http://pymotw.com/2/)
 * [Become a programmer](http://programming-motherfucker.com/become.html#Python)
+* [Python tutor](http://pythontutor.com/)
 
