@@ -95,6 +95,7 @@
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [Tutorials point python tutorial](http://www.tutorialspoint.com/python/)
 
 ##Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
