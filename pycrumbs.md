@@ -317,6 +317,7 @@
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
+* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 
 ###Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
