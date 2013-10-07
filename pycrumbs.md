@@ -388,4 +388,6 @@
 * [Python module of the week](http://pymotw.com/2/)
 * [Become a programmer](http://programming-motherfucker.com/become.html#Python)
 * [Python tutor](http://pythontutor.com/)
+* [Best developer blogs about python - Quora](https://www.quora.com/Python-programming-language-1/What-are-the-best-developer-blogs-about-Python-development)
+* [Python blogs -Stackoverflow](http://stackoverflow.com/questions/152480/python-blogs-that-you-regularly-follow)
 
