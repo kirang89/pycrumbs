@@ -81,7 +81,7 @@
 * [Common newbie mistakes in Python- Part 2](http://blog.amir.rachum.com/post/55024295793/python-common-newbie-mistakes-part-2)
 * [PySchools](http://www.pyschools.com/)
 * [Some cool Python Tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks)
-* http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth
+* [if x and if x is not None](http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth)
 * [Better Python APIs](http://ozkatz.github.io/better-python-apis.html)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
@@ -226,8 +226,8 @@
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Deploying Django](http://www.rdegges.com/deploying-django/)
-* http://www.lightbird.net/dbe/
-* http://showmedo.com/videotutorials/series?name=PPN7NA155
+* [Django by Example](http://www.lightbird.net/dbe/)
+* [Django From the Ground Up (video tutorials)](http://showmedo.com/videotutorials/series?name=PPN7NA155)
 
 ####Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
@@ -255,7 +255,7 @@
 * [Create python web applications for Google Glass](https://github.com/SamyPesse/glass.py)
 
 ##Image Processing
-* http://www.riisen.dk/dop/pil.html
+* [Python Image Library - Examples](http://www.riisen.dk/dop/pil.html)
 
 ##GUI Programming
 * [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
@@ -273,8 +273,8 @@
 ##Databases
 
 ###SQLAlchemy
-* http://www.aosabook.org/en/sqlalchemy.html
-* http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/
+* [SQLAlchemy](http://www.aosabook.org/en/sqlalchemy.html)
+* [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
 
 ##Data Mining
 * [Linux system mining using Python](http://architects.dzone.com/articles/linux-system-mining-python)
@@ -282,7 +282,7 @@
 ##Data Analysis
 ###Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/
+* [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
 ##Design Patterns
@@ -327,8 +327,8 @@
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 
 ##Discussions
-* https://news.ycombinator.com/item?id=3746692
-* https://news.ycombinator.com/item?id=5944863
+* [What's your favorite programming language?](https://news.ycombinator.com/item?id=3746692)
+* [What is your primary programming language?](https://news.ycombinator.com/item?id=5944863)
 * [StackOverflow - Python beyond the basics](http://stackoverflow.com/questions/92230/python-beyond-the-basics)
 * [StackOverflow - Python progression path from apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 * [StackOverflow - Zen of Python](http://stackoverflow.com/questions/228181/zen-of-python)
