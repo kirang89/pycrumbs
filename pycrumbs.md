@@ -326,6 +326,7 @@
 
 ##Online Courses
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
+* [PyCursos - Python for Zombies](http://pycursos.com/python-para-zumbis/)
 
 ##Discussions
 * [What's your favorite programming language?](https://news.ycombinator.com/item?id=3746692)
@@ -349,6 +350,7 @@
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [The newboston site tutorial](http://thenewboston.org/list.php?cat=36)
+* [PyCursos - Free Lessons](http://pycursos.com/biblioteca/?filter=lesson)
 
 ##Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
@@ -371,6 +373,7 @@
 ##Newsletters
 * [Pycoder's](http://pycoders.com/)
 * [Python Weekly](http://www.pythonweekly.com/)
+* [PyCursos Newsletter](http://pycursos.com)
 
 ##Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
