@@ -290,7 +290,6 @@
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 
 ###Concurrency Patterns
-* [Wasps Nest Pattern](http://python.dzone.com/articles/wasps-nest-lock-free)
 * [Wasp's Nest: The Read-Copy-Update Pattern In Python](http://emptysqua.re/blog/wasps-nest-read-copy-update-python/)
 
 ##Concurrency and Distributed Systems
