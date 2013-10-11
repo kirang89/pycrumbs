@@ -152,11 +152,12 @@
 * [Quick Sphinx documentation for Python](http://scriptsonscripts.blogspot.in/2012/09/quick-sphinx-documentation-for-python.html)
 
 ## Environments and Environment Management
+* [Virtualenv - The official documentation](http://www.virtualenv.org/en/latest/)
 * [Virtual Environments — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 * [Virtualenv Tutorial](http://simononsoftware.com/virtualenv-tutorial/)
 * [A Primer on virtualenv](http://iamzed.com/2009/05/07/a-primer-on-virtualenv/)
 * [How to use Python virtualenv](http://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv)
-* [Virtualenv - The official documentation](http://www.virtualenv.org/en/latest/)
+* [Making Virtualenv play nice with Git](http://hmarr.com/2010/jan/19/making-virtualenv-play-nice-with-git/)
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
 * [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
 
