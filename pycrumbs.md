@@ -27,6 +27,7 @@
         * [Web2Py](#web2py)
         * [Django](#django)
         * [Bottle](#bottle)
+        * [Tornado](#tornado)
     * [API and Web Services](#api-and-web-services)
     * [Scraping](#scraping)
 * [Mobile Development](#mobile-development)
@@ -231,6 +232,10 @@
 ####Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
 
+####Tornado
+* [Tornado official documentation](http://www.tornadoweb.org/en/stable/documentation.html)
+* [Fastest database for Tornado](http://www.peterbe.com/plog/fastestdb)
+
 ###API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
 * [Python API for various web services](http://www.pythonapi.com/)
@@ -389,4 +394,5 @@
 * [Python tutor](http://pythontutor.com/)
 * [Best developer blogs about python - Quora](https://www.quora.com/Python-programming-language-1/What-are-the-best-developer-blogs-about-Python-development)
 * [Python blogs -Stackoverflow](http://stackoverflow.com/questions/152480/python-blogs-that-you-regularly-follow)
+* [Abstracting Control Flow](http://hackflow.com/blog/2013/10/08/abstracting-control-flow/)
 
