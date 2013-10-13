@@ -93,6 +93,7 @@
 * [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 * [Learn python through Test Driven Development](https://github.com/gregmalcolm/python_koans)
 * [Tutorialspoint python tutorial](http://www.tutorialspoint.com/python/)
+* [Python Importing](http://blog.amir.rachum.com/post/63666832095/python-importing)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -395,4 +396,5 @@
 * [Best developer blogs about python - Quora](https://www.quora.com/Python-programming-language-1/What-are-the-best-developer-blogs-about-Python-development)
 * [Python blogs -Stackoverflow](http://stackoverflow.com/questions/152480/python-blogs-that-you-regularly-follow)
 * [Abstracting Control Flow](http://hackflow.com/blog/2013/10/08/abstracting-control-flow/)
+* [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 
