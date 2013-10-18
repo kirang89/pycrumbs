@@ -36,6 +36,8 @@
     * [Resources](#resources)
     * [Libraries](#libraries)
 * [GUI Programming](#gui-programming)
+* [Android](#Android)
+    * [SL4A](#sl4a)
 * [WSGI](#wsgi)
 * [Databases](#databases)
     * [SQLAlchemy](#sqlalchemy)
@@ -271,6 +273,9 @@
 * [EffBot.org Introduction to Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)
 * [Pytkgen: JSON to Tkinter GUI Generator](https://github.com/tmetsch/pytkgen)
 
+##Android
+###SL4A
+* [Making the Physics Gizmo app for Android using SL4A](http://www.brokenairplane.com/2011/08/im-not-texting-im-programming.html)
 
 ##WSGI
 * [Getting started with WSGI](http://lucumr.pocoo.org/2007/5/21/getting-started-with-wsgi/)
