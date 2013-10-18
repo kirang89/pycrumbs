@@ -10,6 +10,8 @@
 * [Unicode](#unicode)
 * [Networking](#networking)
 * [Metaclasses](#metaclasses)
+* [Hardware Hacking](#hardware-hacking)
+    * [Arduino](#arduino)
 * [Documentation](#documentation)
     * [Sphinx](#sphinx)
 * [Debugging](#debugging)
@@ -147,6 +149,10 @@
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
 * [What is a metaclass in Python ?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 * [Yet Another Python Metaclass tutorial](http://blog.fruiapps.com/2013/03/Yet-another-Python-MetaClass-Tutorial)
+
+##Hardware Hacking
+###Arduino
+* [Introduction to Hardware Hacking with Arduino](http://juliahgrace.com/intro-hardware-hacking-arduino.html)
 
 ##Documentation
 * [Documentation is King](http://kennethreitz.org/documentation-is-king/)
