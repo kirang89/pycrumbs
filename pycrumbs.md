@@ -52,7 +52,7 @@
 * [Books](#books)
     * [Free](#free)
     * [Paid](#paid)
-* [Online Courses](#online-courses)
+* [Online Courses and Challenges](#online-courses-and-challenges)
 * [Discussions](#discussions)
 * [Conferences and Events](#conferences-and-events)
 * [Videos](#videos)
@@ -343,8 +343,10 @@
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
-##Online Courses
+##Online Courses and Challenges
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
+* [Python Challenges](http://www.pythonchallenge.com/)
+* [Project Euler](http://projecteuler.net)
 
 ##Discussions
 * [What's your favorite programming language?](https://news.ycombinator.com/item?id=3746692)
@@ -412,4 +414,5 @@
 * [Python blogs -Stackoverflow](http://stackoverflow.com/questions/152480/python-blogs-that-you-regularly-follow)
 * [Abstracting Control Flow](http://hackflow.com/blog/2013/10/08/abstracting-control-flow/)
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
+* [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 
