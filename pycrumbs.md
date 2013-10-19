@@ -347,7 +347,6 @@
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
-* [PySchools](http://www.pyschools.com/)
 
 ##Discussions
 * [What's your favorite programming language?](https://news.ycombinator.com/item?id=3746692)
