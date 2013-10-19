@@ -415,4 +415,4 @@
 * [Abstracting Control Flow](http://hackflow.com/blog/2013/10/08/abstracting-control-flow/)
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
-
+* [IHeartPy!](http://www.iheartpy.com/)
