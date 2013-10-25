@@ -231,6 +231,7 @@
 * [Deploying Django](http://www.rdegges.com/deploying-django/)
 * [Django by Example](http://www.lightbird.net/dbe/)
 * [Django From the Ground Up (video tutorials)](http://showmedo.com/videotutorials/series?name=PPN7NA155)
+* [Tango with Django](http://www.tangowithdjango.com/book/)
 
 ####Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
