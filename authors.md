@@ -32,3 +32,4 @@
 * Hariharan Rangasamy
 * Santosh Kumar
 * David Sarma
+* Dhiraj Thakur
