@@ -67,6 +67,7 @@
 * [Beginner's guide to Python](http://wiki.python.org/moin/BeginnersGuide)
 * [The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
+* [Learn Python](http://www.learnpython.org/)
 * [Google's Python class](https://developers.google.com/edu/python/)
 * [Python tracks at Codecademy](http://www.codecademy.com/tracks/python)
 * [Python Monk](http://pythonmonk.com/)
@@ -96,6 +97,7 @@
 * [Learn python through Test Driven Development](https://github.com/gregmalcolm/python_koans)
 * [Tutorialspoint python tutorial](http://www.tutorialspoint.com/python/)
 * [Python Importing](http://blog.amir.rachum.com/post/63666832095/python-importing)
+* [Python's super() considered super!](http://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -297,7 +299,7 @@
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
-* 
+*
 
 ###IPython Notebooks
 * [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
