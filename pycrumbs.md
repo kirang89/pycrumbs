@@ -299,7 +299,6 @@
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
-*
 
 ###IPython Notebooks
 * [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
