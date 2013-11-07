@@ -311,6 +311,16 @@
 * [lifelines: Survival Analysis in Python](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/lifelines/master/Tutorial%20and%20Examples.ipynb)
 * [Economics Simulation](http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb)
 * [An Introduction to Bayesian Methods for Multilevel Modeling](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/multilevel_modeling/master/multilevel_modeling.ipynb)
+* [The Floods of the Nile](http://nbviewer.ipython.org/urls/raw.github.com/LCAV/SignalsOfTheDay/master/FloodsOfTheNile.ipynb)
+* [Animal Foraging and the Evolution of Goal-Directed Cognition](http://nbviewer.ipython.org/urls/raw.github.com/rhiever/Intro-to-Evolutionary-Modeling/master/Animal%2520Foraging%2520and%2520the%2520Evolution%2520of%2520Goal-Directed%2520Cognition.ipynb)
+* [Wikipedia data scraping functions](http://nbviewer.ipython.org/urls/raw.github.com/brianckeegan/Wikipedia/master/wikipedia_scraping.ipynb)
+* [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences)
+* [Media Signal Processing](http://www.mat.ucsb.edu/201A/)
+   * [Digital Filters](http://www.mat.ucsb.edu/201A/console/Digital_Filters-ipython.html)
+   * [Image Filtering](http://www.mat.ucsb.edu/201A/console/Image_Filtering.html)
+   * [Audio Features](http://www.mat.ucsb.edu/201A/console/Audio_Features.html)
+   * [Feature Detection and Matching for Images](http://www.mat.ucsb.edu/201A/console/Feature_detection.html)
+   * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
 
 ##Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
