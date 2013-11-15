@@ -325,6 +325,7 @@
 
 ##Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
+* [Factory Pattern In Python](http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
 
 ###Concurrency Patterns
 * [Wasp's Nest: The Read-Copy-Update Pattern In Python](http://emptysqua.re/blog/wasps-nest-read-copy-update-python/)
