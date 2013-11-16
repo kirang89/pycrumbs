@@ -98,6 +98,7 @@
 * [Python Importing](http://blog.amir.rachum.com/post/63666832095/python-importing)
 * [Python's super() considered super!](http://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 * [No Naked Excepts](http://www.wilfred.me.uk/blog/2013/11/03/no-naked-excepts/)
+* [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
