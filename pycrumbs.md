@@ -170,6 +170,7 @@
 
 ##Debugging
 * [Debugging Tools in Python](http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
+* [Debugging Python Like a Boss](https://zapier.com/engineering/debugging-python-boss/)
 
 ###Logging
 * [Sentry - realtime event logging and aggregation platform](https://sentry.readthedocs.org/en/latest/index.html)
