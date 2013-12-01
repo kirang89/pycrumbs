@@ -282,6 +282,7 @@
 * [Kivy GUI for cross-platform applications](http://kivy.org/)
 * [EffBot.org Introduction to Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)
 * [Pytkgen: JSON to Tkinter GUI Generator](https://github.com/tmetsch/pytkgen)
+* [Intro to programming with Python and Tkinter](https://wiki.python.org/moin/Intro%20to%20programming%20with%20Python%20and%20Tkinter)
 
 ##Android
 ###SL4A
