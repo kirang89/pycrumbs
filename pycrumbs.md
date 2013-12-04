@@ -28,6 +28,7 @@
         * [Django](#django)
         * [Bottle](#bottle)
         * [Tornado](#tornado)
+    * [Web Servers](#web-servers)
     * [API and Web Services](#api-and-web-services)
     * [Scraping](#scraping)
 * [Mobile Development](#mobile-development)
@@ -248,6 +249,9 @@
 ####Tornado
 * [Tornado official documentation](http://www.tornadoweb.org/en/stable/documentation.html)
 * [Fastest database for Tornado](http://www.peterbe.com/plog/fastestdb)
+
+###Web Servers
+* [A Comparison of Web Servers for Python Based Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-web-servers-for-python-based-web-applications)
 
 ###API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
