@@ -203,6 +203,7 @@
 
 ###Fabric
 * [Using Fabric in a development environment](http://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-a-development-environment/)
+* [Capture output from parallel execution with Fabric](http://dmsimard.com/2013/11/29/capture-output-from-parallel-execution-with-fabric/)
 
 ##Warts and Gotchas
 * [Python 2.x gotcha's and landmines](http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines)
