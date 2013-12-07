@@ -213,7 +213,6 @@
 
 ##Web
 * [Python and Realtime Web](http://mrjoes.github.io/2013/06/21/python-realtime.html)
-* [List of Python API’s](http://www.pythonapi.com/)
 
 ###Frameworks
 ####Flask
