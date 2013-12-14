@@ -48,6 +48,7 @@
 * [Design Patterns](#design-patterns)
     * [Concurrency Patterns](#concurrency-patterns)
 * [Concurrency and Distributed Systems](#concurrency-and-distributed-systems)
+* [Functional Programming](#functional-programming)
 * [Python 2 vs Python 3](#python-2-vs-3)
     * [Porting to Python 3](#porting-to-python-3)
 * [Books](#books)
@@ -239,6 +240,7 @@
 * [Django From the Ground Up (video tutorials)](http://showmedo.com/videotutorials/series?name=PPN7NA155)
 * [Tango with Django](http://www.tangowithdjango.com/book/)
 * [Django Screencasts](https://godjango.com/)
+* [Let’s TDD a Simple App in Django](http://pypix.com/django/tdd-in-django/)
 * [Django runserver and stunnel for testing HTTPS](http://mgile.com/post/4729505823/django-stunnel)
 * [Scaling database with Django and HAProxy](http://engineering.hackerearth.com/2013/10/07/scaling-database-with-django-and-haproxy/)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
@@ -342,13 +344,16 @@
 * [Celery: Distributed Task Queue](https://celery.readthedocs.org/en/latest/getting-started/index.html)
 * [Gevent for the working Python developer](http://sdiehl.github.io/gevent-tutorial/)
 
+##Functional Programming
+* [Recursion Explained with the Flood Fill Algorithm](http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/)
+
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
 
 ### Porting to Python 3
 * [How to support both Python 2 and 3](http://ondrejcertik.blogspot.com/2013/08/how-to-support-both-python-2-and-3.html)
 * [How CherryPy supports Python 2 and 3](http://pyvideo.org/video/689/how-cherrypy-supports-python-2-and-3)
-* [($) Porting to Python 3 - The Book Site](http://python3porting.com/)
+* [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
 ##Books
 ###Free
