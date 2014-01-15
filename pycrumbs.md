@@ -334,6 +334,7 @@
 
 ##Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
+* [28 Design Patterns in Python and Several Other Languages](https://github.com/oxnz/design-patterns)
 * [Factory Pattern In Python](http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
 
 ###Concurrency Patterns
