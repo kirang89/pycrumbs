@@ -105,6 +105,10 @@
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [Python Idioms and Efficiency](https://www.memonic.com/user/pneff/folder/python/id/1bufp)
+* [How not to write Python code](http://eikke.com/how-not-to-write-python-code/)
+* [Docstring Conventions](http://www.python.org/dev/peps/pep-0257/)
 
 ##Dictionary
 * [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
