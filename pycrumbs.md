@@ -359,6 +359,10 @@
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
+* [Python 3 Q & A](http://python-notes.curiousefficiency.org/en/latest/python3/questions_and_answers.html)
+* [About Python 3](http://alexgaynor.net/2013/dec/30/about-python-3/)
+* [Let’s talk about Python 3.0](http://www.b-list.org/weblog/2008/dec/05/python-3000/)
+* [Pros and Cons about Python 3](http://lucumr.pocoo.org/2010/1/7/pros-and-cons-about-python-3/)
 
 ### Porting to Python 3
 * [How to support both Python 2 and 3](http://ondrejcertik.blogspot.com/2013/08/how-to-support-both-python-2-and-3.html)
