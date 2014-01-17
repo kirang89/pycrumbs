@@ -1,5 +1,6 @@
 #Contents
 * [Beginner's Delight](#beginners-delight)
+* [Why Python?](#why-python)
 * [Style Guide and Idioms](#style-guide-and-idioms)
 * [Dictionary](#dictionary)
 * [Decorators](#decorators)
@@ -101,6 +102,14 @@
 * [Python's super() considered super!](http://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 * [No Naked Excepts](http://www.wilfred.me.uk/blog/2013/11/03/no-naked-excepts/)
 * [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
+
+##Why Python?
+* [Python Success Stories](http://www.python.org/about/success/esr/)
+* [Why Python - Slideshare](http://www.slideshare.net/arnav/python-presentation)
+* [5 Reasons Why You Should Learn Python Programming](http://www.codercaste.com/2009/10/20/5-reasons-why-you-should-learn-python-programming/)
+* [Why such popularity with Python?](https://programmers.stackexchange.com/questions/5427/why-such-popularity-with-python)
+* [Why was Python's popularity so sudden?](https://programmers.stackexchange.com/questions/27207/why-was-pythons-popularity-so-sudden?rq=1)
+* 
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
