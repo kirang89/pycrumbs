@@ -107,9 +107,9 @@
 * [Python Success Stories](http://www.python.org/about/success/esr/)
 * [Why Python - Slideshare](http://www.slideshare.net/arnav/python-presentation)
 * [5 Reasons Why You Should Learn Python Programming](http://www.codercaste.com/2009/10/20/5-reasons-why-you-should-learn-python-programming/)
+* [10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t)](http://www.stat.washington.edu/~hoytak/blog/whypython.html)
 * [Why such popularity with Python?](https://programmers.stackexchange.com/questions/5427/why-such-popularity-with-python)
 * [Why was Python's popularity so sudden?](https://programmers.stackexchange.com/questions/27207/why-was-pythons-popularity-so-sudden?rq=1)
-* 
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
