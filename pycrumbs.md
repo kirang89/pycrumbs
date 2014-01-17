@@ -110,6 +110,8 @@
 * [10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t)](http://www.stat.washington.edu/~hoytak/blog/whypython.html)
 * [Why such popularity with Python?](https://programmers.stackexchange.com/questions/5427/why-such-popularity-with-python)
 * [Why was Python's popularity so sudden?](https://programmers.stackexchange.com/questions/27207/why-was-pythons-popularity-so-sudden?rq=1)
+* [Why Python?](http://www.reddit.com/r/Python/comments/1mb4y4/why_python/)
+* [How Python became the language of choice for data science](http://blog.mikiobraun.de/2013/11/how-python-became-the-language-of-choice-for-data-science.html)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
