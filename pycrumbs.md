@@ -396,6 +396,7 @@
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [PyVideo](http://pyvideo.org/)
 * [Khan Academy - Introduction to programming and computer science using Python](https://www.khanacademy.org/science/computer-science)
+* [What are some "must-watch" Python videos ?](http://www.reddit.com/r/Python/comments/1rs7ub/what_are_some_mustwatch_python_videos/)
 * [Lanyrd - Python Videos](http://lanyrd.com/topics/python/video/)
 * [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
