@@ -139,6 +139,8 @@
 * [Meta-matters: Using decorators for better Python programming](http://pydanny-event-notes.readthedocs.org/en/latest/PyconAU2011/decorators.html)
 * [How can I make a chain of function decorators in Python?](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 * [The Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary)
+* [Improve Your Python: Decorators Explained](http://www.jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/)
+* [Painless Decorators](http://hackflow.com/blog/2013/11/03/painless-decorators/)
 
 ##Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
@@ -159,6 +161,8 @@
 * [Unicode Pain](http://nedbatchelder.com/text/unipain.html)
 * [Python encodings and Unicode](http://eric.themoritzfamily.com/python-encodings-and-unicode.html)
 * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
+* [More About Unicode in Python 2 and 3](http://lucumr.pocoo.org/2014/1/5/unicode-in-2-and-3/)
+* [Unicode in Python: Common Pitfalls](http://blogs.skicelab.com/maurizio/unicode-common-pitfalls.html)
 
 ##Networking
 * [An intro to Python socket network programming](http://freepythontips.wordpress.com/2013/08/06/python-socket-network-programming/)
@@ -167,6 +171,8 @@
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
 * [What is a metaclass in Python ?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 * [Yet Another Python Metaclass tutorial](http://blog.fruiapps.com/2013/03/Yet-another-Python-MetaClass-Tutorial)
+* [Improve Your Python: Metaclasses and Dynamic Classes With Type](http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/)
+* [Metaprogramming in Python](http://pypix.com/python/metaprogramming-python/)
 
 ##Documentation
 * [Documentation is King](http://kennethreitz.org/documentation-is-king/)
@@ -203,6 +209,7 @@
 
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
+* [Profiling Python Like a Boss](https://zapier.com/engineering/profiling-python-boss/)
 
 ##Packaging
 * [The Hitchhiker’s Guide to Packaging](http://guide.python-distribute.org/)
@@ -250,6 +257,7 @@
 ####Django
 * [The official Django documentation](https://docs.djangoproject.com/en/1.5/)
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
+* [Starting a Django 1.6 Project the Right Way](http://www.jeffknupp.com/blog/2013/12/18/starting-a-django-16-project-the-right-way/)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Deploying Django](http://www.rdegges.com/deploying-django/)
@@ -320,6 +328,8 @@
 ###SQLAlchemy
 * [SQLAlchemy](http://www.aosabook.org/en/sqlalchemy.html)
 * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
+* [Essential SQLAlchemy Tips and Techniques](http://pypix.com/tools-and-tips/essential-sqlalchemy/)
+* [10 common stumbling blocks for SQLAlchemy newbies](http://alextechrants.blogspot.fr/2013/11/10-common-stumbling-blocks-for.html)
 
 ##Data Mining
 * [Linux system mining using Python](http://architects.dzone.com/articles/linux-system-mining-python)
@@ -364,6 +374,7 @@
 
 ##Functional Programming
 * [Recursion Explained with the Flood Fill Algorithm](http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/)
+* [Functional Programming in Python](http://pypix.com/python/functional-programming/)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
@@ -379,6 +390,8 @@
 
 ##Books
 ###Free
+* [Free Programming Books - Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)
+* [Python Programming - Free Computer Books](http://freecomputerbooks.com/langPythonBooks.html)
 * [Some free books on Python](http://pythonbooks.revolunet.com/)
 * [Invent with Python](http://inventwithpython.com/chapters/)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
@@ -454,6 +467,11 @@
 * [Python innards introduction](http://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
 * [Projects - A list of practical projects](https://github.com/thekarangoel/Projects)
 * [More Python Tutorials](http://awaretek.com/tutorials.html)
+* [Developer Tools in Python](http://pypix.com/tools-and-tips/developer-tools/)
+* [The Best of Python in 2013](http://pypix.com/roundups/best-python-2013/)
+* [Top Projects of 2013](http://us4.campaign-archive2.com/?u=9735795484d2e4c204da82a29&id=384b699bca&e=1826c8bb55)
+* [Advanced Regular Expression Tips and Techniques](http://pypix.com/tools-and-tips/advanced-regular-expression-tips-techniques/)
+* [Advanced Data Structures in Python](http://pypix.com/python/advanced-data-structures-python/)
 * [Simple Sudoku solver in python](http://freepythontips.wordpress.com/2013/09/01/sudoku-solver-in-python/)
 * [Looking Inside Dropbox – Security whitepaper](http://freepythontips.wordpress.com/2013/08/30/looking-inside-dropbox-whitepaper/)
 * [Why sorting an array makes a Python loop faster](http://rickystewart.wordpress.com/2013/09/03/why-sorting-an-array-makes-a-python-loop-faster/)
