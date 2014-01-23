@@ -1,5 +1,6 @@
 #Contents
 * [Beginner's Delight](#beginners-delight)
+* [Why Python?](#why-python)
 * [Style Guide and Idioms](#style-guide-and-idioms)
 * [Dictionary](#dictionary)
 * [Decorators](#decorators)
@@ -101,6 +102,16 @@
 * [Python's super() considered super!](http://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 * [No Naked Excepts](http://www.wilfred.me.uk/blog/2013/11/03/no-naked-excepts/)
 * [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
+
+##Why Python?
+* [Python Success Stories](http://www.python.org/about/success/esr/)
+* [Why Python - Slideshare](http://www.slideshare.net/arnav/python-presentation)
+* [5 Reasons Why You Should Learn Python Programming](http://www.codercaste.com/2009/10/20/5-reasons-why-you-should-learn-python-programming/)
+* [10 Reasons Python Rocks for Research (And a Few Reasons it Doesn’t)](http://www.stat.washington.edu/~hoytak/blog/whypython.html)
+* [Why such popularity with Python?](https://programmers.stackexchange.com/questions/5427/why-such-popularity-with-python)
+* [Why was Python's popularity so sudden?](https://programmers.stackexchange.com/questions/27207/why-was-pythons-popularity-so-sudden?rq=1)
+* [Why Python?](http://www.reddit.com/r/Python/comments/1mb4y4/why_python/)
+* [How Python became the language of choice for data science](http://blog.mikiobraun.de/2013/11/how-python-became-the-language-of-choice-for-data-science.html)
 
 ##Style Guide and Idioms
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
@@ -354,6 +365,10 @@
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
+* [Python 3 Q & A](http://python-notes.curiousefficiency.org/en/latest/python3/questions_and_answers.html)
+* [About Python 3](http://alexgaynor.net/2013/dec/30/about-python-3/)
+* [Let’s talk about Python 3.0](http://www.b-list.org/weblog/2008/dec/05/python-3000/)
+* [Pros and Cons about Python 3](http://lucumr.pocoo.org/2010/1/7/pros-and-cons-about-python-3/)
 
 ### Porting to Python 3
 * [How to support both Python 2 and 3](http://ondrejcertik.blogspot.com/2013/08/how-to-support-both-python-2-and-3.html)
