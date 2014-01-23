@@ -396,11 +396,13 @@
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
 * [PyVideo](http://pyvideo.org/)
 * [Khan Academy - Introduction to programming and computer science using Python](https://www.khanacademy.org/science/computer-science)
+* [What are some "must-watch" Python videos ?](http://www.reddit.com/r/Python/comments/1rs7ub/what_are_some_mustwatch_python_videos/)
 * [Lanyrd - Python Videos](http://lanyrd.com/topics/python/video/)
 * [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [The newboston site tutorial](http://thenewboston.org/list.php?cat=36)
+* [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA&feature=plcp)
 
 ##Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
