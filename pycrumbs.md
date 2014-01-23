@@ -198,6 +198,8 @@
 * [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst)
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
 * [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
+* [Improve Your Python: Understanding Unit Testing](http://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
+* [An Introduction to Mocking in Python](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
