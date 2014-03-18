@@ -342,6 +342,7 @@
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
 ###IPython Notebooks
+* [Differential Equations in Data Science](http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
 * [Stegotons: solitary waves arising in non-dispersive periodic media](http://nbviewer.ipython.org/gist/ketch/8554686)
 * [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
 * [Scientific Computing with Python](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/QBbootcamp3.ipynb)
