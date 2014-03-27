@@ -342,6 +342,7 @@
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
 ###IPython Notebooks
+* [Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method](http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold.ipynb)
 * [Differential Equations in Data Science](http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
 * [Stegotons: solitary waves arising in non-dispersive periodic media](http://nbviewer.ipython.org/gist/ketch/8554686)
 * [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
