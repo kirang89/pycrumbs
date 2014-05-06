@@ -46,6 +46,7 @@
 * [Data Mining](#data-mining)
 * [Data Analysis](#data-analysis)
     * [Pandas](#pandas)
+* [IPython Notebooks](#ipython-notebooks)
 * [Design Patterns](#design-patterns)
     * [Concurrency Patterns](#concurrency-patterns)
 * [Concurrency and Distributed Systems](#concurrency-and-distributed-systems)
@@ -341,7 +342,8 @@
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 
-###IPython Notebooks
+##IPython Notebooks
+* [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [Statistical Natural Language Processing in Python | How To Do Things With Words. And Counters.](http://nbviewer.ipython.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb)
 * [Analysis of World Bank Fertility Rate Data With Statsmodels PCA](http://nbviewer.ipython.org/urls/umich.box.com/shared/static/6m7f4lw9bdog241kqcmb.ipynb)
 * [Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method](http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold.ipynb)
