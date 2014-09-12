@@ -83,6 +83,7 @@
 * [Beginner projects for a python newbie](http://newcoder.io/)
 * [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
 * [Python Practice book](http://anandology.com/python-practice-book/)
+* [Python tools and software](http://www.linux.org/threads/python-tools-and-software.6372/)
 * [Facts and myths about Python names and values](http://nedbatchelder.com/text/names.html)
 * [*args and **kwargs in python explained](http://freepythontips.wordpress.com/2013/08/04/args-and-kwargs-in-python-explained/)
 * [Common newbie mistakes in Python- Part 1](http://blog.amir.rachum.com/post/54770419679/python-common-newbie-mistakes-part-1)
@@ -209,6 +210,7 @@
 * [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 * [Improve Your Python: Understanding Unit Testing](http://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
 * [An Introduction to Mocking in Python](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
+* [Python Mock Library Comparison](https://garybernhardt.github.io/python-mock-comparison/)
 
 ##Profiling
 * [A guide to analyzing Python performance](http://www.huyng.com/posts/python-performance-analysis/)
