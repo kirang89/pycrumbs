@@ -344,6 +344,7 @@
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
+* [Faster Data Processing in Python](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)
 
 ##IPython Notebooks
 * [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
