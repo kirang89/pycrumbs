@@ -86,6 +86,7 @@
 * [Python tools and software](http://www.linux.org/threads/python-tools-and-software.6372/)
 * [Facts and myths about Python names and values](http://nedbatchelder.com/text/names.html)
 * [*args and **kwargs in python explained](http://freepythontips.wordpress.com/2013/08/04/args-and-kwargs-in-python-explained/)
+* [In Python, it’s all about the attributes](http://blog.lerner.co.il/python-attributes/)
 * [Common newbie mistakes in Python- Part 1](http://blog.amir.rachum.com/post/54770419679/python-common-newbie-mistakes-part-1)
 * [Common newbie mistakes in Python- Part 2](http://blog.amir.rachum.com/post/55024295793/python-common-newbie-mistakes-part-2)
 * [PySchools](http://www.pyschools.com/)
@@ -181,6 +182,7 @@
 * [Documentation is King](http://kennethreitz.org/documentation-is-king/)
 * [Make your open source project documentation suck less](http://kirang89.webfactional.com/2013/05/07/make-your-open-source-project-documentation-suck-less/)
 * [Python Documentation Network](http://pydoc.net/)
+* [Writing great documentation](http://jacobian.org/writing/great-documentation/)
 
 ###Sphinx
 * [Quick Sphinx documentation for Python](http://scriptsonscripts.blogspot.in/2012/09/quick-sphinx-documentation-for-python.html)
@@ -279,6 +281,7 @@
 * [Scaling database with Django and HAProxy](http://engineering.hackerearth.com/2013/10/07/scaling-database-with-django-and-haproxy/)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
 * [Django models, encapsulation and data integrity](http://www.dabapps.com/blog/django-models-and-encapsulation/)
+* [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131)
 
 ####Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
