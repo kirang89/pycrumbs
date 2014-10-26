@@ -5,6 +5,7 @@
 * [Dictionary](#dictionary)
 * [Decorators](#decorators)
 * [Generators](#generators)
+* [Coroutines](#coroutines)
 * [Iterators](#iterators)
 * [Yield](#yield)
 * [Context Managers](#context-managers)
@@ -149,6 +150,9 @@
 ##Generators
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
 * [Delegating to a Subgenerator in Python 3](http://docs.python.org/3/whatsnew/3.3.html#pep-380-syntax-for-delegating-to-a-subgenerator)
+
+##Coroutines
+* [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
 
 ##Iterators
 * [Understanding Iterators and Iterables](http://www.shutupandship.com/2012/01/understanding-python-iterables-and.html)
