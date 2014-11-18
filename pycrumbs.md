@@ -265,6 +265,7 @@
 * [How to Build an API with Python and Flask](http://tech.pro/tutorial/1213/how-to-build-an-api-with-python-and-flask)
 * [Create a Simple Music Streaming App with Flask](http://pypix.com/python/create-simple-music-streaming-app-flask/)
 * [Adding full-text search to the flask note-taking app](http://charlesleifer.com/blog/saturday-morning-hacks-adding-full-text-search-to-the-flask-note-taking-app/)
+* [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
@@ -286,6 +287,7 @@
 * [Classy Class-Based Views](http://ccbv.co.uk/)
 * [Django models, encapsulation and data integrity](http://www.dabapps.com/blog/django-models-and-encapsulation/)
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131)
+* [Build a Shopify App in 15 minutes with Django](http://gavinballard.com/shopify-app-in-15-minutes-with-django)
 
 ####Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
@@ -296,6 +298,7 @@
 
 ###Web Servers
 * [A Comparison of Web Servers for Python Based Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-web-servers-for-python-based-web-applications)
+* [Setting Up a Rock Solid Python Development Web Server](https://fgimian.github.io/blog/2012/12/08/setting-up-a-rock-solid-python-development-web-server/)
 
 ###API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
