@@ -201,6 +201,7 @@
 * [Making Virtualenv play nice with Git](http://hmarr.com/2010/jan/19/making-virtualenv-play-nice-with-git/)
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
 * [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
+* [Virtualenv Tips](http://ericholscher.com/blog/2010/nov/1/virtualenv-tips/)
 
 ##Debugging
 * [Debugging Tools in Python](http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
@@ -234,6 +235,7 @@
 * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [Py2app: Standalone Mac OS X applications](http://pythonhosted.org/py2app/)
 * [PyInstaller: Stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX](http://www.pyinstaller.org/)
+* [setup.py tricks](http://www.pydanny.com/python-dot-py-tricks.html)
 
 ##Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
