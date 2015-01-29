@@ -148,6 +148,7 @@
 * [Painless Decorators](http://hackflow.com/blog/2013/11/03/painless-decorators/)
 
 ##Generators
+* [Improve Your Python: 'yield' and Generators Explained](http://www.jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
 * [Delegating to a Subgenerator in Python 3](http://docs.python.org/3/whatsnew/3.3.html#pep-380-syntax-for-delegating-to-a-subgenerator)
 
@@ -266,6 +267,7 @@
 * [Create a Simple Music Streaming App with Flask](http://pypix.com/python/create-simple-music-streaming-app-flask/)
 * [Adding full-text search to the flask note-taking app](http://charlesleifer.com/blog/saturday-morning-hacks-adding-full-text-search-to-the-flask-note-taking-app/)
 * [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
+* [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
