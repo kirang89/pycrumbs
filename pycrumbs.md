@@ -359,6 +359,8 @@
 * [Linux system mining using Python](http://architects.dzone.com/articles/linux-system-mining-python)
 
 ##Data Analysis
+* [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
+
 ###Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
