@@ -306,7 +306,6 @@
 
 ###API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
-* [Python API for various web services](http://www.pythonapi.com/)
 * [Glassdoor API](https://github.com/hackerlist/glassdoor)
 
 ###Scraping
