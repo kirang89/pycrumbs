@@ -225,7 +225,7 @@
 * [Profiling Python Like a Boss](https://zapier.com/engineering/profiling-python-boss/)
 
 ##Packaging
-* [The Hitchhiker’s Guide to Packaging](http://guide.python-distribute.org/)
+* [The Hitchhiker’s Guide to Packaging](http://docs.python-guide.org/en/latest/shipping/packaging/)
 * [Sharing Your Labor of Love: PyPI Quick And Dirty](http://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
 * [Open Sourcing a Python Project the Right Way](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
 * [5 tips for packaging your Python projects](http://ziade.org/2011/08/19/5-tips-for-packaging-your-python-projects/)
