@@ -108,6 +108,14 @@
 * [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 
+##Resources for Women
+* [Pyladies](http://www.pyladies.com/)
+* [Diversity in Python Community Mailing List](http://docs.python-guide.org/en/latest/)
+* [Django Girls](http://djangogirls.org/)
+* [Pystar](http://pystar.org/)
+* [Geek Feminism Python Posts](http://geekfeminism.org/tag/python/)
+* [Tarah Wheeler Van Vlack Videos](https://www.youtube.com/user/tarahwheelervanvlack)
+
 ##Why Python?
 * [Python Success Stories](http://www.python.org/about/success/esr/)
 * [Why Python - Slideshare](http://www.slideshare.net/arnav/python-presentation)
