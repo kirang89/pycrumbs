@@ -270,6 +270,7 @@
 * [Adding full-text search to the flask note-taking app](http://charlesleifer.com/blog/saturday-morning-hacks-adding-full-text-search-to-the-flask-note-taking-app/)
 * [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
 * [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
+* [Building a blog using Flask and AngularJS](http://tutsbucket.com/tutorials/building-a-blog-using-flask-and-angularjs-part-1/)
 
 ####Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
