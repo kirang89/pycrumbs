@@ -1,5 +1,6 @@
 #Contents
 * [Beginner's Delight](#beginners-delight)
+* [Resources for Women](#resources-for-women)
 * [Why Python?](#why-python)
 * [Style Guide and Idioms](#style-guide-and-idioms)
 * [Dictionary](#dictionary)
