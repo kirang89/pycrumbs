@@ -108,6 +108,7 @@
 * [No Naked Excepts](http://www.wilfred.me.uk/blog/2013/11/03/no-naked-excepts/)
 * [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
+* [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 
 ##Resources for Women
 * [Pyladies](http://www.pyladies.com/)
