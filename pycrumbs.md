@@ -431,9 +431,11 @@
 * [Pros and Cons about Python 3](http://lucumr.pocoo.org/2010/1/7/pros-and-cons-about-python-3/)
 
 ### Porting to Python 3
+* [Python 3 Wall of Superpowers(Packages)](https://python3wos.appspot.com/)
 * [How to support both Python 2 and 3](http://ondrejcertik.blogspot.com/2013/08/how-to-support-both-python-2-and-3.html)
 * [How CherryPy supports Python 2 and 3](http://pyvideo.org/video/689/how-cherrypy-supports-python-2-and-3)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
+* [Easy, clean, reliable Python 2/3 compatibility](http://python-future.org/)
 
 ##Books
 ###Free
