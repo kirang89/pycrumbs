@@ -421,7 +421,7 @@
 
 ##Functional Programming
 * [Recursion Explained with the Flood Fill Algorithm](http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/)
-* [Functional Programming in Python](http://pypix.com/python/functional-programming/)
+* [Functional Programming in Python](https://web.archive.org/web/20140105103917/http://pypix.com/python/functional-programming/)
 
 ##Python 2 vs 3
 * [Python 2 or 3 ?](http://wiki.python.org/moin/Python2orPython3)
