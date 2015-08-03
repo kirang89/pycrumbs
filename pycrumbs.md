@@ -31,6 +31,7 @@
         * [Django](#django)
         * [Bottle](#bottle)
         * [Tornado](#tornado)
+        * [Pyramid](#pyramid)
     * [Web Servers](#web-servers)
     * [API and Web Services](#api-and-web-services)
     * [Scraping](#scraping)
