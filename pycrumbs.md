@@ -161,6 +161,7 @@
 * [Improve Your Python: 'yield' and Generators Explained](http://www.jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
 * [Generator Tricks for Systems Programmers](http://www.dabeaz.com/generators-uk/)
 * [Delegating to a Subgenerator in Python 3](http://docs.python.org/3/whatsnew/3.3.html#pep-380-syntax-for-delegating-to-a-subgenerator)
+* [Generators Will Free Your Mind](http://pyvideo.org/video/3170/generators-will-free-your-mind-0)
 
 ##Coroutines
 * [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
