@@ -313,6 +313,11 @@
 ####Tornado
 * [Tornado official documentation](http://www.tornadoweb.org/en/stable/documentation.html)
 * [Fastest database for Tornado](http://www.peterbe.com/plog/fastestdb)
+ 
+####Pyramid
+* [Pyramid official documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html)
+* [How To Use the Pyramid Framework To Build Your Python Web App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-use-the-pyramid-framework-to-build-your-python-web-app-on-ubuntu)
+
 
 ###Web Servers
 * [A Comparison of Web Servers for Python Based Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-web-servers-for-python-based-web-applications)
