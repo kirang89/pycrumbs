@@ -493,6 +493,7 @@
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
 * [The newboston site tutorial](http://thenewboston.org/list.php?cat=36)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA&feature=plcp)
+* [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch)
 
 ## Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
