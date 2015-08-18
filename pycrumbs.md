@@ -23,6 +23,7 @@
 * [Packaging](#packaging)
 * [Deployment](#deployment)
     * [Fabric](#fabric)
+    * [Ansible](#ansible)
 * [Warts and Gotchas](#warts-and-gotchas)
 * [Web](#web)
     * [Frameworks](#frameworks)
@@ -256,6 +257,9 @@
 * [Using Fabric in a development environment](http://www.pythonforbeginners.com/systems-programming/how-to-use-fabric-in-a-development-environment/)
 * [Capture output from parallel execution with Fabric](http://dmsimard.com/2013/11/29/capture-output-from-parallel-execution-with-fabric/)
 
+### Ansible
+* [Example Ansible scripts for building a full AWS stack](https://github.com/rabidgremlin/dev-ops-snippets/tree/master/aws-full-stack)
+
 ## Warts and Gotchas
 * [Python 2.x gotcha's and landmines](http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines)
 * [Python Warts](https://wiki.python.org/moin/PythonWarts)
@@ -314,7 +318,7 @@
 #### Tornado
 * [Tornado official documentation](http://www.tornadoweb.org/en/stable/documentation.html)
 * [Fastest database for Tornado](http://www.peterbe.com/plog/fastestdb)
- 
+
 #### Pyramid
 * [Pyramid official documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html)
 * [How To Use the Pyramid Framework To Build Your Python Web App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-use-the-pyramid-framework-to-build-your-python-web-app-on-ubuntu)
