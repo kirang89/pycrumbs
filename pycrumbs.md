@@ -384,6 +384,7 @@
 ## Data Analysis
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
+* [Data Science with Python & R: Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
 
 ### Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
