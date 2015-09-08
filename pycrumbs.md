@@ -311,6 +311,8 @@
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131)
 * [Build a Shopify App in 15 minutes with Django](http://gavinballard.com/shopify-app-in-15-minutes-with-django)
 * [A repository of must-watch videos about Django](https://github.com/rosarior/django-must-watch)
+* [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
+* [Mastering Django](http://masteringdjango.com/)
 
 #### Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
