@@ -158,6 +158,7 @@
 * [The Python Decorator Library](https://wiki.python.org/moin/PythonDecoratorLibrary)
 * [Improve Your Python: Decorators Explained](http://www.jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/)
 * [Painless Decorators](http://hackflow.com/blog/2013/11/03/painless-decorators/)
+* [Advanced Uses of Python Decorators](https://www.codementor.io/python/tutorial/advanced-use-python-decorators-class-function)
 
 ## Generators
 * [Improve Your Python: 'yield' and Generators Explained](http://www.jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
@@ -170,6 +171,10 @@
 
 ## Iterators
 * [Understanding Iterators and Iterables](http://www.shutupandship.com/2012/01/understanding-python-iterables-and.html)
+* [For Loops and Iterators](https://www.codementor.io/python/tutorial/python-generators-and-iterators)
+
+## Import
+* [A Python Import Tutorial for Beginners](https://www.codementor.io/python/tutorial/python-path-virtualenv-import-for-beginners)
 
 ## Yield
 * [Python yield keyword explained](http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained)
@@ -215,6 +220,9 @@
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
 * [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
 * [Virtualenv Tips](http://ericholscher.com/blog/2010/nov/1/virtualenv-tips/)
+
+## Exceptions
+* [Writing and Using Custom Exceptions](https://www.codementor.io/python/tutorial/how-to-write-python-custom-exceptions)
 
 ## Debugging
 * [Debugging Tools in Python](http://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
@@ -288,6 +296,7 @@
 * [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
 * [Building a blog using Flask and AngularJS](http://tutsbucket.com/tutorials/building-a-blog-using-flask-and-angularjs-part-1/)
 * [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask)
+* [Building a Movie Recommendation Service with Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part2)
 
 #### Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
@@ -313,6 +322,7 @@
 * [A repository of must-watch videos about Django](https://github.com/rosarior/django-must-watch)
 * [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
 * [Mastering Django](http://masteringdjango.com/)
+* [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/build-data-products-django-machine-learning-clustering-user-preferences)
 
 #### Bottle
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
@@ -324,7 +334,7 @@
 #### Pyramid
 * [Pyramid official documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html)
 * [How To Use the Pyramid Framework To Build Your Python Web App on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-use-the-pyramid-framework-to-build-your-python-web-app-on-ubuntu)
-
+* [Building an AJAX Hello-World with Pyramid](https://www.codementor.io/javascript/tutorial/build-ajax-helloworld-pyramid)
 
 ### Web Servers
 * [A Comparison of Web Servers for Python Based Web Applications](https://www.digitalocean.com/community/articles/a-comparison-of-web-servers-for-python-based-web-applications)
@@ -379,6 +389,7 @@
 * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
 * [Essential SQLAlchemy Tips and Techniques](http://pypix.com/tools-and-tips/essential-sqlalchemy/)
 * [10 common stumbling blocks for SQLAlchemy newbies](http://alextechrants.blogspot.fr/2013/11/10-common-stumbling-blocks-for.html)
+* [An SQLAlchemy Cheatsheet](https://www.codementor.io/python/tutorial/understanding-sqlalchemy-cheat-sheet)
 
 ## Data Mining
 * [Linux system mining using Python](http://architects.dzone.com/articles/linux-system-mining-python)
@@ -386,7 +397,9 @@
 ## Data Analysis
 * [Practical Data Science in Python](http://radimrehurek.com/data_science_python/)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
+* [Data Science with Python & R: Data Frames](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i)
 * [Data Science with Python & R: Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
+* [Data Science with Python & R: Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
 
 ### Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
@@ -424,6 +437,7 @@
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 * [28 Design Patterns in Python and Several Other Languages](https://github.com/oxnz/design-patterns)
 * [Factory Pattern In Python](http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
+* [Wishful Coding in Python: a Problem Solving Philosophy](https://www.codementor.io/python/tutorial/wishful-coding-python-solving-big-problems)
 
 ### Concurrency Patterns
 * [Wasp's Nest: The Read-Copy-Update Pattern In Python](http://emptysqua.re/blog/wasps-nest-read-copy-update-python/)
@@ -513,12 +527,14 @@
 * [Ninja-IDE](http://ninja-ide.org/)
 * [Emacs setup for python development environment](http://caisah.info/emacs-for-python/)
 * [Emacs for python](https://github.com/gabrielelanaro/emacs-for-python)
+* [Python Anywhere](https://www.pythonanywhere.com/)
 
 ## BigData
 * [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
 
 ## Curated Python resources from other websites
 * [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
+* [Learn Python Online](https://www.codementor.io/learn-python-online)
 
 ## Newsletters
 * [Pycoder's](http://pycoders.com/)
@@ -552,3 +568,4 @@
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 * [IHeartPy!](http://www.iheartpy.com/)
+
