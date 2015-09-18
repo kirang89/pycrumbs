@@ -37,6 +37,4 @@
 * Mushfiq-E Mahabub
 * Jalem Raj Rohit
 * Erica Melzer
-* Andy Brown
-* Jose A Dianes
-* Sheena O'Connell
+* Y.J. Chen
