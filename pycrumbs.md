@@ -505,6 +505,7 @@
 
 ## Videos
 * [Guido Van Rossum on the history of Python](http://www.youtube.com/watch?v=ugqu10JV7dk)
+* [Type Hints - Guido van Rossum - PyCon 2015](https://www.youtube.com/watch?v=2wDvzy6Hgxg)
 * [PyVideo](http://pyvideo.org/)
 * [Khan Academy - Introduction to programming and computer science using Python](https://www.khanacademy.org/science/computer-science)
 * [What are some "must-watch" Python videos ?](http://www.reddit.com/r/Python/comments/1rs7ub/what_are_some_mustwatch_python_videos/)
@@ -568,4 +569,3 @@
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 * [IHeartPy!](http://www.iheartpy.com/)
-
