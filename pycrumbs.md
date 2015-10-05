@@ -432,6 +432,7 @@
    * [Audio Features](http://www.mat.ucsb.edu/201A/console/Audio_Features.html)
    * [Feature Detection and Matching for Images](http://www.mat.ucsb.edu/201A/console/Feature_detection.html)
    * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
+* [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures)
 
 ## Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
