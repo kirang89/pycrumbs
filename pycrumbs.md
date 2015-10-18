@@ -297,6 +297,10 @@
 * [Building a blog using Flask and AngularJS](http://tutsbucket.com/tutorials/building-a-blog-using-flask-and-angularjs-part-1/)
 * [A repository of Flask resources](https://github.com/humiaozuzu/awesome-flask)
 * [Building a Movie Recommendation Service with Spark & Flask](https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part2)
+* [Building a Kanban App with Flask and React](http://blog.tryolabs.com/2015/04/30/building-a-kanban-app-in-react/)
+
+##### Books
+* [Explore Flask](https://exploreflask.com)
 
 #### Web2Py
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
