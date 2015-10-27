@@ -1,4 +1,4 @@
-# Contents
+﻿# Contents
 * [Beginner's Delight](#beginners-delight)
 * [Resources for Women](#resources-for-women)
 * [Why Python?](#why-python)
@@ -112,6 +112,7 @@
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 * [Python's objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
+* [Interactive python-problem solving](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 ## Resources for Women
 * [Pyladies](http://www.pyladies.com/)

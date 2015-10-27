@@ -1,4 +1,4 @@
-#Authors
+﻿#Authors
 
 * Kiran Gangadharan
 * Simon Willison
@@ -39,3 +39,4 @@
 * Erica Melzer
 * Y.J. Chen
 * Patrick Mazulo
+* Harshul Jain
