@@ -1,4 +1,4 @@
-# Contents
+﻿# Contents
 * [Beginner's Delight](#beginners-delight)
 * [Resources for Women](#resources-for-women)
 * [Why Python?](#why-python)
@@ -486,6 +486,7 @@
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
+* [Interactive python-problem solving](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 ### Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
