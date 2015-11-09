@@ -333,7 +333,7 @@
 * [Developing with Bottle- Part 1](http://www.realpython.com/blog/python/developing-with-bottle-part-1/)
 
 #### Tornado
-* [Tornado official documentation](http://www.tornadoweb.org/en/stable/documentation.html)
+* [Tornado official documentation](http://www.tornadoweb.org/en/stable/)
 * [Fastest database for Tornado](http://www.peterbe.com/plog/fastestdb)
 
 #### Pyramid
