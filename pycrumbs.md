@@ -489,6 +489,7 @@
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Interactive python-problem solving](http://interactivepython.org/runestone/static/pythonds/index.html)
+* [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)
 
 ### Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
