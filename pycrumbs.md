@@ -101,7 +101,7 @@
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
 * [Efficient String Concatenation in Python](http://www.skymind.com/~ocrow/python_string/)
-* [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
+* [Be Pythonic: `__init__.py`](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
 * [Building an open-source Python application the right way](http://kirang.in/2013/09/09/building-an-open-source-python-application-the-right-way/)
 * [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 * [Tutorialspoint python tutorial](http://www.tutorialspoint.com/python/)
