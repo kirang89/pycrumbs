@@ -222,6 +222,7 @@
 * [Extension to Virtualenv](https://bitbucket.org/dhellmann/virtualenvwrapper)
 * [VirtualEnv Burrito = virtualenv + virtualenvwrapper](https://github.com/brainsik/virtualenv-burrito)
 * [Virtualenv Tips](http://ericholscher.com/blog/2010/nov/1/virtualenv-tips/)
+* [Anaconda Primer](http://caffeineindustries.com/anaconda-primer.html)
 
 ## Exceptions
 * [Writing and Using Custom Exceptions](https://www.codementor.io/python/tutorial/how-to-write-python-custom-exceptions)
