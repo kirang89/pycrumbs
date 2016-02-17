@@ -413,6 +413,7 @@
 * [Pandas and Python: Top 10](http://manishamde.github.io/blog/2013/03/07/pandas-and-python-top-10/)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 * [Faster Data Processing in Python](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)
+* [Learn More About Pandas By Building and Using a Weighted Average Function](http://pbpython.com/weighted-average.html)
 
 ## IPython Notebooks
 * [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
@@ -441,6 +442,7 @@
    * [Feature Detection and Matching for Images](http://www.mat.ucsb.edu/201A/console/Feature_detection.html)
    * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures)
+* [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ## Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
@@ -500,6 +502,7 @@
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
+* [Interactive, test-driven Python coding challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Discussions
 * [What's your favorite programming language?](https://news.ycombinator.com/item?id=3746692)
