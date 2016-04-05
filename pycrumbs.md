@@ -494,6 +494,7 @@
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Interactive python-problem solving](http://interactivepython.org/runestone/static/pythonds/index.html)
 * [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)
+* [Think Stats: Exploratory Data Analysis in Python](http://greenteapress.com/thinkstats2/html/index.html)
 
 ### Paid
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
