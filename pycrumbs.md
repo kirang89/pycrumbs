@@ -443,6 +443,7 @@
    * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures)
 * [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes)
 
 ## Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
