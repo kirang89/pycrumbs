@@ -41,3 +41,4 @@
 * Patrick Mazulo
 * Harshul Jain
 * Michael Martinez
+* José Carlos García
