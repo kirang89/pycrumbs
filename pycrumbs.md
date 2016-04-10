@@ -68,6 +68,7 @@
 * [Big Data](#bigdata)
 * [Curated Python resources from other websites](#curated-python-resources-from-other-websites)
 * [Newsletters](#newsletters)
+* [Podcasts](#podcasts)
 * [Miscellaneous](#miscellaneous)
 
 
@@ -556,6 +557,10 @@
 ## Newsletters
 * [Pycoder's](http://pycoders.com/)
 * [Python Weekly](http://www.pythonweekly.com/)
+
+## Podcasts
+* [Podcast.\__init__](http://podcastinit.com/)
+* [Talk Python To Me](https://talkpython.fm/)
 
 ## Miscellaneous
 * [Good to great Python reads](http://jessenoller.com/good-to-great-python-reads/)
