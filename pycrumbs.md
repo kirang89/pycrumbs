@@ -408,6 +408,7 @@
 * [Data Science with Python & R: Data Frames](https://www.codementor.io/python/tutorial/python-vs-r-for-data-science-data-frames-i)
 * [Data Science with Python & R: Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
 * [Data Science with Python & R: Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
+* [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 
 ### Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
