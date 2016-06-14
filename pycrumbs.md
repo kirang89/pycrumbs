@@ -70,6 +70,7 @@
 * [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
 * [Miscellaneous](#miscellaneous)
+* [Algorithms](#algorithms)
 
 
 ## Beginner's Delight
@@ -591,3 +592,6 @@
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 * [IHeartPy!](http://www.iheartpy.com/)
+
+##Algorithms
+* [An interative python algorithms book](http://interactivepython.org/courselib/static/pythonds/index.html)
