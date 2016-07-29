@@ -409,6 +409,7 @@
 * [Data Science with Python & R: Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
 * [Data Science with Python & R: Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
+* [SciPy Lecture Notes: One document to learn numerics, science, and data with Python](http://www.scipy-lectures.org/)
 
 ### Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
