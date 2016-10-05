@@ -24,6 +24,7 @@
 * [Deployment](#deployment)
     * [Fabric](#fabric)
     * [Ansible](#ansible)
+* [Contributing to Python Development](#contributing-to-python-development)
 * [Warts and Gotchas](#warts-and-gotchas)
 * [Web](#web)
     * [Frameworks](#frameworks)
@@ -148,6 +149,7 @@
 
 ## Decorators
 * [Understanding Python Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
+* [Decorators and Functional Python](http://www.brianholdefehr.com/decorators-and-functional-python)
 * [Common uses of Python decorators - Quora](http://www.quora.com/Python-programming-language-1/What-are-common-uses-of-Python-decorators)
 * [Common uses of Python decorators - Stack Overflow](http://stackoverflow.com/questions/489720/what-are-some-common-uses-for-python-decorators)
 * [Python Decorators](http://pythonconquerstheuniverse.wordpress.com/2012/04/29/python-decorators/)
@@ -271,6 +273,9 @@
 
 ### Ansible
 * [Example Ansible scripts for building a full AWS stack](https://github.com/rabidgremlin/dev-ops-snippets/tree/master/aws-full-stack)
+
+## Contributing to Python Development
+* [The CPython Developer's Guide](https://github.com/python/devguide)
 
 ## Warts and Gotchas
 * [Python 2.x gotcha's and landmines](http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines)
