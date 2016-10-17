@@ -51,6 +51,7 @@
 * [Data Mining](#data-mining)
 * [Data Analysis](#data-analysis)
     * [Pandas](#pandas)
+* [Deep Learning](#deep-learning)
 * [IPython Notebooks](#ipython-notebooks)
 * [Design Patterns](#design-patterns)
     * [Concurrency Patterns](#concurrency-patterns)
@@ -422,6 +423,11 @@
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 * [Faster Data Processing in Python](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)
 * [Learn More About Pandas By Building and Using a Weighted Average Function](http://pbpython.com/weighted-average.html)
+
+## Deep Learning
+* [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+* [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+* [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples)
 
 ## IPython Notebooks
 * [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
