@@ -83,6 +83,7 @@
 * [Python tracks at Codecademy](http://www.codecademy.com/tracks/python)
 * [Python Monk](http://pythonmonk.com/)
 * [Python for Beginners](http://www.pythonforbeginners.com/)
+* [Intro to Python For Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
 * [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
@@ -415,6 +416,7 @@
 * [Data Science with Python & R: Exploratory Data Analysis](https://www.codementor.io/python/tutorial/data-science-python-r-exploratory-data-analysis-visualization)
 * [Data Science with Python & R: Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
+* [Python Basics For Data Science](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
 * [SciPy Lecture Notes: One document to learn numerics, science, and data with Python](http://www.scipy-lectures.org/)
 
 ### Pandas
@@ -514,7 +516,8 @@
 * [Some list of paid books on python](http://wiki.python.org/moin/PythonBooks)
 * [Porting to Python 3 - The Book Site](http://python3porting.com/)
 
-## Online Courses and Challenges
+## Online 
+and Challenges
 * [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/index.htm)
 * [Python Challenges](http://www.pythonchallenge.com/)
 * [Project Euler](http://projecteuler.net)
