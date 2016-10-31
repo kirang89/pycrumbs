@@ -14,6 +14,7 @@
 * Natan L
 * David J. Felix
 * M. Yasoob
+* Adnan Khan (Mahan Marwat)
 * Konark Modi
 * Mohammad Faizal
 * Mohammad Adil
