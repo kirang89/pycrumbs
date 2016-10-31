@@ -197,6 +197,7 @@
 * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
 * [More About Unicode in Python 2 and 3](http://lucumr.pocoo.org/2014/1/5/unicode-in-2-and-3/)
 * [Unicode in Python: Common Pitfalls](http://blogs.skicelab.com/maurizio/unicode-common-pitfalls.html)
+* [Unicode HOWTO](https://docs.python.org/3/howto/unicode.html)
 
 ## Networking
 * [An intro to Python socket network programming](http://freepythontips.wordpress.com/2013/08/06/python-socket-network-programming/)
