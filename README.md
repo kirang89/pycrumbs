@@ -117,6 +117,7 @@
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
 * [Python's objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 * [Visualize your Python code being executed](http://www.pythontutor.com/visualize.html)
+* [Snakify - a tutorial with exercises and a visual debugger](https://snakify.org/)
 
 ## Resources for Women
 * [Pyladies](http://www.pyladies.com/)
