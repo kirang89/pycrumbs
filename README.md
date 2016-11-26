@@ -121,7 +121,7 @@
 
 ## Resources for Women
 * [Pyladies](http://www.pyladies.com/)
-* [Diversity in Python Community Mailing List](http://docs.python-guide.org/en/latest/)
+* [Diversity in Python Community](https://www.python.org/community/diversity/)
 * [Django Girls](http://djangogirls.org/)
 * [Pystar](http://pystar.org/)
 * [Geek Feminism Python Posts](http://geekfeminism.org/tag/python/)
