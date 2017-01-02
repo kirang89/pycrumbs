@@ -1,4 +1,4 @@
-﻿# Contents
+# Contents
 * [Beginner's Delight](#beginners-delight)
 * [Resources for Women](#resources-for-women)
 * [Why Python?](#why-python)
@@ -81,7 +81,6 @@
 * [Learn Python](http://www.learnpython.org/)
 * [Google's Python class](https://developers.google.com/edu/python/)
 * [Python tracks at Codecademy](http://www.codecademy.com/tracks/python)
-* [Python Monk](http://pythonmonk.com/)
 * [Python for Beginners](http://www.pythonforbeginners.com/)
 * [Intro to Python For Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
