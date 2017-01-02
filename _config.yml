@@ -1,0 +1,8 @@
+title: Pycrumbs
+description: Bits and bytes of Python from the Internet
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
