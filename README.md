@@ -369,7 +369,7 @@
 
 ## Mobile Development
 ### Kivy
-* [Creating an app in Kivy](http://archlinux.me/dusty/2013/06/13/creating-an-application-in-kivy-part-1/)
+* [Creating an Application in Kivy: Part 1](http://buchuki.com/index.php/2013/06/13/creating-an-application-in-kivy-part-1/)
 
 ## Google Glass
 ### Resources
