@@ -140,7 +140,7 @@
 * [PEP 8 - Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008/)
 * [PEP 8 — the Style Guide for Python Code](http://pep8.org/)
 * [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
-* [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Python Idioms and Efficiency](https://www.memonic.com/user/pneff/folder/python/id/1bufp)
 * [How not to write Python code](http://eikke.com/how-not-to-write-python-code/)
 * [Docstring Conventions](http://www.python.org/dev/peps/pep-0257/)
