@@ -442,7 +442,7 @@
 * [Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method](http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold.ipynb)
 * [Differential Equations in Data Science](http://nbviewer.ipython.org/github/URXtech/techblog/blob/master/continuousTimeMarkovChain/markovChain.ipynb)
 * [Stegotons: solitary waves arising in non-dispersive periodic media](http://nbviewer.ipython.org/gist/ketch/8554686)
-* [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSPv3.ipynb)
+* [The Traveling Salesperson Problem](http://nbviewer.ipython.org/url/norvig.com/ipython/TSP.ipynb)
 * [Scientific Computing with Python](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/QBbootcamp3.ipynb)
 * [Gaussian Blur](http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/GaussianBlur.ipynb)
 * [Understanding the FFT Algorithm](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/UnderstandingTheFFT.ipynb)
