@@ -323,10 +323,9 @@
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Deploying Django](http://www.rdegges.com/deploying-django/)
 * [Django by Example](http://www.lightbird.net/dbe/)
-* [Django From the Ground Up (video tutorials)](http://showmedo.com/videotutorials/series?name=PPN7NA155)
 * [Tango with Django](http://www.tangowithdjango.com/book/)
 * [Django Screencasts](https://godjango.com/)
-* [Let’s TDD a Simple App in Django](http://pypix.com/django/tdd-in-django/)
+* [Let’s TDD a Simple App in Django](http://web.archive.org/web/20131212220546/http://pypix.com/django/tdd-in-django/)
 * [Django runserver and stunnel for testing HTTPS](http://mgile.com/post/4729505823/django-stunnel)
 * [Scaling database with Django and HAProxy](http://engineering.hackerearth.com/2013/10/07/scaling-database-with-django-and-haproxy/)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
@@ -334,7 +333,7 @@
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131)
 * [Build a Shopify App in 15 minutes with Django](http://gavinballard.com/shopify-app-in-15-minutes-with-django)
 * [A repository of must-watch videos about Django](https://github.com/rosarior/django-must-watch)
-* [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 * [Mastering Django](http://masteringdjango.com/)
 * [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/build-data-products-django-machine-learning-clustering-user-preferences)
 
@@ -377,7 +376,7 @@
 * [Create python web applications for Google Glass](https://github.com/SamyPesse/glass.py)
 
 ## Image Processing
-* [Python Image Library - Examples](http://www.riisen.dk/dop/pil.html)
+* [Python Image Library - Examples](http://web.archive.org/web/20150814055529/http://www.riisen.dk/dop/pil.html)
 
 ## GUI Programming
 * [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
@@ -401,7 +400,7 @@
 ### SQLAlchemy
 * [SQLAlchemy](http://www.aosabook.org/en/sqlalchemy.html)
 * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
-* [Essential SQLAlchemy Tips and Techniques](http://pypix.com/tools-and-tips/essential-sqlalchemy/)
+* [Essential SQLAlchemy Tips and Techniques](http://web.archive.org/web/20140424034838/http://pypix.com/tools-and-tips/essential-sqlalchemy/)
 * [10 common stumbling blocks for SQLAlchemy newbies](http://alextechrants.blogspot.fr/2013/11/10-common-stumbling-blocks-for.html)
 * [An SQLAlchemy Cheatsheet](https://www.codementor.io/python/tutorial/understanding-sqlalchemy-cheat-sheet)
 
@@ -443,19 +442,14 @@
 * [Scientific Computing with Python](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/QBbootcamp3.ipynb)
 * [Gaussian Blur](http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/GaussianBlur.ipynb)
 * [Understanding the FFT Algorithm](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/UnderstandingTheFFT.ipynb)
-* [lifelines: Survival Analysis in Python](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/lifelines/master/Tutorial%20and%20Examples.ipynb)
+* [lifelines: Survival Analysis in Python](http://lifelines.readthedocs.io)
 * [Economics Simulation](http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb)
 * [An Introduction to Bayesian Methods for Multilevel Modeling](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/multilevel_modeling/master/multilevel_modeling.ipynb)
-* [The Floods of the Nile](http://nbviewer.ipython.org/urls/raw.github.com/LCAV/SignalsOfTheDay/master/FloodsOfTheNile.ipynb)
+* [The Floods of the Nile](http://nbviewer.jupyter.org/github/LCAV/SignalsOfTheDay/blob/master/Floods_of_the_Nile/FloodsOfTheNile.ipynb)
 * [Animal Foraging and the Evolution of Goal-Directed Cognition](http://nbviewer.ipython.org/urls/raw.github.com/rhiever/Intro-to-Evolutionary-Modeling/master/Animal%2520Foraging%2520and%2520the%2520Evolution%2520of%2520Goal-Directed%2520Cognition.ipynb)
 * [Wikipedia data scraping functions](http://nbviewer.ipython.org/urls/raw.github.com/brianckeegan/Wikipedia/master/wikipedia_scraping.ipynb)
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences)
 * [Media Signal Processing](http://www.mat.ucsb.edu/201A/)
-   * [Digital Filters](http://www.mat.ucsb.edu/201A/console/Digital_Filters-ipython.html)
-   * [Image Filtering](http://www.mat.ucsb.edu/201A/console/Image_Filtering.html)
-   * [Audio Features](http://www.mat.ucsb.edu/201A/console/Audio_Features.html)
-   * [Feature Detection and Matching for Images](http://www.mat.ucsb.edu/201A/console/Feature_detection.html)
-   * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures)
 * [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes)
@@ -463,7 +457,7 @@
 ## Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 * [28 Design Patterns in Python and Several Other Languages](https://github.com/oxnz/design-patterns)
-* [Factory Pattern In Python](http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
+* [Factory Pattern In Python](http://web.archive.org/web/20131008172420/http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
 * [Wishful Coding in Python: a Problem Solving Philosophy](https://www.codementor.io/python/tutorial/wishful-coding-python-solving-big-problems)
 
 ### Concurrency Patterns
@@ -526,7 +520,7 @@
 * [What is your primary programming language?](https://news.ycombinator.com/item?id=5944863)
 * [StackOverflow - Python beyond the basics](http://stackoverflow.com/questions/92230/python-beyond-the-basics)
 * [StackOverflow - Python progression path from apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
-* [StackOverflow - Zen of Python](http://stackoverflow.com/questions/228181/zen-of-python)
+* [StackOverflow - Zen of Python](http://web.archive.org/web/20130801022115/http://stackoverflow.com/questions/228181/zen-of-python)
 * [StackOverflow - Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
 ## Conferences and events
