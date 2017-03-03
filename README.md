@@ -239,7 +239,7 @@
 * [Debugging Python Like a Boss](https://zapier.com/engineering/debugging-python-boss/)
 
 ### Logging
-* [Sentry - realtime event logging and aggregation platform](https://sentry.readthedocs.org/en/latest/index.html)
+* [Sentry - realtime event logging and aggregation platform](https://docs.sentry.io/)
 
 ## Testing
 * [Nose Introduction](http://pythontesting.net/framework/nose/nose-introduction/)
