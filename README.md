@@ -84,9 +84,8 @@
 * [Python for Beginners](http://www.pythonforbeginners.com/)
 * [Intro to Python For Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
-* [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
+* [Python Tips, tools and resources](http://web.archive.org/web/20141010212202/http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
-* [LearnStreet Python course](http://www.learnstreet.com/lessons/study/python)
 * [Beginner projects for a python newbie](http://newcoder.io/)
 * [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
 * [Python Practice book](http://anandology.com/python-practice-book/)
@@ -205,14 +204,12 @@
 
 ## Metaclasses
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
-* [What is a metaclass in Python ?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
-* [Yet Another Python Metaclass tutorial](http://blog.fruiapps.com/2013/03/Yet-another-Python-MetaClass-Tutorial)
+* [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 * [Improve Your Python: Metaclasses and Dynamic Classes With Type](http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/)
-* [Metaprogramming in Python](http://pypix.com/python/metaprogramming-python/)
 
 ## Documentation
 * [Documentation is King](http://kennethreitz.org/documentation-is-king/)
-* [Make your open source project documentation suck less](http://kirang89.webfactional.com/2013/05/07/make-your-open-source-project-documentation-suck-less/)
+* [Make your open source project documentation suck less](http://web.archive.org/web/20150813232522/http://kirang89.webfactional.com/2013/05/07/make-your-open-source-project-documentation-suck-less/)
 * [Python Documentation Network](http://pydoc.net/)
 * [Writing great documentation](http://jacobian.org/writing/great-documentation/)
 
@@ -246,7 +243,7 @@
 * [Unittest Introduction](http://pythontesting.net/framework/unittest/unittest-introduction/)
 * [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst)
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
-* [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
+* [Test strategies for your Python projects](http://web.archive.org/web/20160604121116/http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 * [Improve Your Python: Understanding Unit Testing](http://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
 * [An Introduction to Mocking in Python](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 * [Python Mock Library Comparison](https://garybernhardt.github.io/python-mock-comparison/)
@@ -298,12 +295,12 @@
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
-* [How I structure my Flask apps](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
+* [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
 * [Designing a RESTful API using Flask-RESTful](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 * [Rapid Web Prototyping with Lightweight Tools](http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools)
 * [Build a Simple, Static, Markdown-Powered Blog with Flask](http://www.jamesharding.ca/posts/simple-static-markdown-blog-in-flask/)
-* [How to Build an API with Python and Flask](http://tech.pro/tutorial/1213/how-to-build-an-api-with-python-and-flask)
-* [Create a Simple Music Streaming App with Flask](http://pypix.com/python/create-simple-music-streaming-app-flask/)
+* [How to Build an API with Python and Flask](http://web.archive.org/web/20150502090353/http://tech.pro/tutorial/1213/how-to-build-an-api-with-python-and-flask)
+* [Create a Simple Music Streaming App with Flask](http://web.archive.org/web/20140424194048/http://pypix.com/python/create-simple-music-streaming-app-flask/)
 * [Adding full-text search to the flask note-taking app](http://charlesleifer.com/blog/saturday-morning-hacks-adding-full-text-search-to-the-flask-note-taking-app/)
 * [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
 * [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
@@ -319,7 +316,7 @@
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
 
 #### Django
-* [The official Django documentation](https://docs.djangoproject.com/en/1.5/)
+* [The official Django documentation](https://docs.djangoproject.com/)
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
 * [Starting a Django 1.6 Project the Right Way](http://www.jeffknupp.com/blog/2013/12/18/starting-a-django-16-project-the-right-way/)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
