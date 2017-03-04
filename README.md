@@ -84,9 +84,8 @@
 * [Python for Beginners](http://www.pythonforbeginners.com/)
 * [Intro to Python For Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Best way to learn python](http://net.tutsplus.com/tutorials/the-best-way-to-learn-python/)
-* [Python Tips, tools and resources](http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
+* [Python Tips, tools and resources](http://web.archive.org/web/20141010212202/http://lurnq.com/lesson/Getting-started-with-Python-Tips-Tools-and-Resources)
 * [Python Koans: Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
-* [LearnStreet Python course](http://www.learnstreet.com/lessons/study/python)
 * [Beginner projects for a python newbie](http://newcoder.io/)
 * [Learn X in Y minutes - Python](http://learnxinyminutes.com/docs/python/)
 * [Python Practice book](http://anandology.com/python-practice-book/)
@@ -205,14 +204,12 @@
 
 ## Metaclasses
 * [A primer on python metaclasses](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
-* [What is a metaclass in Python ?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
-* [Yet Another Python Metaclass tutorial](http://blog.fruiapps.com/2013/03/Yet-another-Python-MetaClass-Tutorial)
+* [What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
 * [Improve Your Python: Metaclasses and Dynamic Classes With Type](http://www.jeffknupp.com/blog/2013/12/28/improve-your-python-metaclasses-and-dynamic-classes-with-type/)
-* [Metaprogramming in Python](http://pypix.com/python/metaprogramming-python/)
 
 ## Documentation
 * [Documentation is King](http://kennethreitz.org/documentation-is-king/)
-* [Make your open source project documentation suck less](http://kirang89.webfactional.com/2013/05/07/make-your-open-source-project-documentation-suck-less/)
+* [Make your open source project documentation suck less](http://web.archive.org/web/20150813232522/http://kirang89.webfactional.com/2013/05/07/make-your-open-source-project-documentation-suck-less/)
 * [Python Documentation Network](http://pydoc.net/)
 * [Writing great documentation](http://jacobian.org/writing/great-documentation/)
 
@@ -246,7 +243,7 @@
 * [Unittest Introduction](http://pythontesting.net/framework/unittest/unittest-introduction/)
 * [How To Use Coverage.py With Unittest](https://github.com/audreyr/how-to/blob/master/python/use_coverage_with_unittest.rst)
 * [An Extended Introduction to the nose Unit Testing Framework](http://ivory.idyll.org/articles/nose-intro.html)
-* [Test strategies for your Python projects](http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
+* [Test strategies for your Python projects](http://web.archive.org/web/20160604121116/http://blog.flaper87.com/post/522b9e560f06d32542ede77f/)
 * [Improve Your Python: Understanding Unit Testing](http://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
 * [An Introduction to Mocking in Python](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
 * [Python Mock Library Comparison](https://garybernhardt.github.io/python-mock-comparison/)
@@ -298,12 +295,12 @@
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 * [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
-* [How I structure my Flask apps](http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
+* [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
 * [Designing a RESTful API using Flask-RESTful](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 * [Rapid Web Prototyping with Lightweight Tools](http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools)
 * [Build a Simple, Static, Markdown-Powered Blog with Flask](http://www.jamesharding.ca/posts/simple-static-markdown-blog-in-flask/)
-* [How to Build an API with Python and Flask](http://tech.pro/tutorial/1213/how-to-build-an-api-with-python-and-flask)
-* [Create a Simple Music Streaming App with Flask](http://pypix.com/python/create-simple-music-streaming-app-flask/)
+* [How to Build an API with Python and Flask](http://web.archive.org/web/20150502090353/http://tech.pro/tutorial/1213/how-to-build-an-api-with-python-and-flask)
+* [Create a Simple Music Streaming App with Flask](http://web.archive.org/web/20140424194048/http://pypix.com/python/create-simple-music-streaming-app-flask/)
 * [Adding full-text search to the flask note-taking app](http://charlesleifer.com/blog/saturday-morning-hacks-adding-full-text-search-to-the-flask-note-taking-app/)
 * [Kickstarting Flask on Ubuntu - Setup and Deployment](https://realpython.com/blog/python/kickstarting-flask-on-ubuntu-setup-and-deployment)
 * [OAuth Authentication with Flask](http://blog.miguelgrinberg.com/post/oauth-authentication-with-flask)
@@ -319,17 +316,16 @@
 * [Building a Twitter clone in Web2Py](http://fragile.org.uk/2013/06/twitter-clone-tutorial-in-web2py-part-1-getting-started/)
 
 #### Django
-* [The official Django documentation](https://docs.djangoproject.com/en/1.5/)
+* [The official Django documentation](https://docs.djangoproject.com/)
 * [Getting started with Django](http://gettingstartedwithdjango.com/)
 * [Starting a Django 1.6 Project the Right Way](http://www.jeffknupp.com/blog/2013/12/18/starting-a-django-16-project-the-right-way/)
 * [Building a hacker news clone in Django](http://arunrocks.com/building-a-hacker-news-clone-in-django-part-1/)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/)
 * [Deploying Django](http://www.rdegges.com/deploying-django/)
 * [Django by Example](http://www.lightbird.net/dbe/)
-* [Django From the Ground Up (video tutorials)](http://showmedo.com/videotutorials/series?name=PPN7NA155)
 * [Tango with Django](http://www.tangowithdjango.com/book/)
 * [Django Screencasts](https://godjango.com/)
-* [Let’s TDD a Simple App in Django](http://pypix.com/django/tdd-in-django/)
+* [Let’s TDD a Simple App in Django](http://web.archive.org/web/20131212220546/http://pypix.com/django/tdd-in-django/)
 * [Django runserver and stunnel for testing HTTPS](http://mgile.com/post/4729505823/django-stunnel)
 * [Scaling database with Django and HAProxy](http://engineering.hackerearth.com/2013/10/07/scaling-database-with-django-and-haproxy/)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
@@ -337,7 +333,7 @@
 * [11 Things I Wish I Knew About Django Development Before I Started My Company](https://medium.com/cs-math/11-things-i-wish-i-knew-about-django-development-before-i-started-my-company-f29f6080c131)
 * [Build a Shopify App in 15 minutes with Django](http://gavinballard.com/shopify-app-in-15-minutes-with-django)
 * [A repository of must-watch videos about Django](https://github.com/rosarior/django-must-watch)
-* [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 * [Mastering Django](http://masteringdjango.com/)
 * [Building a Wine Review & Recommendation Site with Django](https://www.codementor.io/python/tutorial/build-data-products-django-machine-learning-clustering-user-preferences)
 
@@ -380,7 +376,7 @@
 * [Create python web applications for Google Glass](https://github.com/SamyPesse/glass.py)
 
 ## Image Processing
-* [Python Image Library - Examples](http://www.riisen.dk/dop/pil.html)
+* [Python Image Library - Examples](http://web.archive.org/web/20150814055529/http://www.riisen.dk/dop/pil.html)
 
 ## GUI Programming
 * [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
@@ -404,7 +400,7 @@
 ### SQLAlchemy
 * [SQLAlchemy](http://www.aosabook.org/en/sqlalchemy.html)
 * [SQLAlchemy and you](http://lucumr.pocoo.org/2011/7/19/sqlachemy-and-you/)
-* [Essential SQLAlchemy Tips and Techniques](http://pypix.com/tools-and-tips/essential-sqlalchemy/)
+* [Essential SQLAlchemy Tips and Techniques](http://web.archive.org/web/20140424034838/http://pypix.com/tools-and-tips/essential-sqlalchemy/)
 * [10 common stumbling blocks for SQLAlchemy newbies](http://alextechrants.blogspot.fr/2013/11/10-common-stumbling-blocks-for.html)
 * [An SQLAlchemy Cheatsheet](https://www.codementor.io/python/tutorial/understanding-sqlalchemy-cheat-sheet)
 
@@ -446,19 +442,14 @@
 * [Scientific Computing with Python](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/QBbootcamp3.ipynb)
 * [Gaussian Blur](http://nbviewer.ipython.org/urls/raw.github.com/mroberts3000/GpuComputing/master/IPython/GaussianBlur.ipynb)
 * [Understanding the FFT Algorithm](http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/UnderstandingTheFFT.ipynb)
-* [lifelines: Survival Analysis in Python](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/lifelines/master/Tutorial%20and%20Examples.ipynb)
+* [lifelines: Survival Analysis in Python](http://lifelines.readthedocs.io)
 * [Economics Simulation](http://nbviewer.ipython.org/url/norvig.com/ipython/Economics.ipynb)
 * [An Introduction to Bayesian Methods for Multilevel Modeling](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/multilevel_modeling/master/multilevel_modeling.ipynb)
-* [The Floods of the Nile](http://nbviewer.ipython.org/urls/raw.github.com/LCAV/SignalsOfTheDay/master/FloodsOfTheNile.ipynb)
+* [The Floods of the Nile](http://nbviewer.jupyter.org/github/LCAV/SignalsOfTheDay/blob/master/Floods_of_the_Nile/FloodsOfTheNile.ipynb)
 * [Animal Foraging and the Evolution of Goal-Directed Cognition](http://nbviewer.ipython.org/urls/raw.github.com/rhiever/Intro-to-Evolutionary-Modeling/master/Animal%2520Foraging%2520and%2520the%2520Evolution%2520of%2520Goal-Directed%2520Cognition.ipynb)
 * [Wikipedia data scraping functions](http://nbviewer.ipython.org/urls/raw.github.com/brianckeegan/Wikipedia/master/wikipedia_scraping.ipynb)
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences)
 * [Media Signal Processing](http://www.mat.ucsb.edu/201A/)
-   * [Digital Filters](http://www.mat.ucsb.edu/201A/console/Digital_Filters-ipython.html)
-   * [Image Filtering](http://www.mat.ucsb.edu/201A/console/Image_Filtering.html)
-   * [Audio Features](http://www.mat.ucsb.edu/201A/console/Audio_Features.html)
-   * [Feature Detection and Matching for Images](http://www.mat.ucsb.edu/201A/console/Feature_detection.html)
-   * [Gestures](http://www.mat.ucsb.edu/201A/console/Gestures.html)
 * [Get Started with Python](https://github.com/rajathkumarmp/Python-Lectures)
 * [A gallery of data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Jupyter Notebooks derived from Allen Downey's Think Bayes](https://github.com/rlabbe/ThinkBayes)
@@ -466,7 +457,7 @@
 ## Design Patterns
 * [Python Best Practice Patterns by Vladimir Keleshev](http://www.youtube.com/watch?v=GZNUfkVIHAY)
 * [28 Design Patterns in Python and Several Other Languages](https://github.com/oxnz/design-patterns)
-* [Factory Pattern In Python](http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
+* [Factory Pattern In Python](http://web.archive.org/web/20131008172420/http://dailypython.wordpress.com/2013/08/04/factory-pattern-in-python/)
 * [Wishful Coding in Python: a Problem Solving Philosophy](https://www.codementor.io/python/tutorial/wishful-coding-python-solving-big-problems)
 
 ### Concurrency Patterns
@@ -529,7 +520,7 @@
 * [What is your primary programming language?](https://news.ycombinator.com/item?id=5944863)
 * [StackOverflow - Python beyond the basics](http://stackoverflow.com/questions/92230/python-beyond-the-basics)
 * [StackOverflow - Python progression path from apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
-* [StackOverflow - Zen of Python](http://stackoverflow.com/questions/228181/zen-of-python)
+* [StackOverflow - Zen of Python](http://web.archive.org/web/20130801022115/http://stackoverflow.com/questions/228181/zen-of-python)
 * [StackOverflow - Hidden Features of Python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
 ## Conferences and events
