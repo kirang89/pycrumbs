@@ -560,7 +560,7 @@
 * [Mind map of Python for Big Data](http://www.xmind.net/m/WvfC/?goback=%2Emid_I2756675707*43_*1#%21)
 
 ## Curated Python resources from other websites
-* [Python Resources (All) - Codesters.org](http://codesters.org/resource/topic/python/all/)
+* [Python Resources (All) - Codesters.org](http://web.archive.org/web/20160401215551/http://codesters.org/resource/topic/python/all/)
 * [Learn Python Online](https://www.codementor.io/learn-python-online)
 
 ## Newsletters
