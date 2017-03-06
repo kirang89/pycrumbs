@@ -538,7 +538,7 @@
 * [Python Videos, Tutorials and Screencasts at ShowMeDo](http://showmedo.com/videotutorials/python)
 * [Talks by Brandon Rhodes](http://rhodesmill.org/brandon/talks/)
 * [A Billion Rows per Second: Metaprogramming Python for Big Data](https://www.youtube.com/watch?v=rXj5nayS7Yg)
-* [The newboston site tutorial](http://thenewboston.org/list.php?cat=36)
+* [The newboston site tutorial](http://thenewboston.com/list.php?cat=36) - [Python 3 version](https://thenewboston.com/videos.php?cat=98)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA&feature=plcp)
 * [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch)
 
