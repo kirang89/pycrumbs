@@ -1,4 +1,4 @@
-﻿# Contents
+# Contents
 * [Beginner's Delight](#beginners-delight)
 * [Resources for Women](#resources-for-women)
 * [Why Python?](#why-python)
