@@ -542,7 +542,7 @@
 * [The newboston site tutorial](https://thenewboston.com/videos.php?cat=36) - [Python 3 version](https://thenewboston.com/videos.php?cat=98)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA&feature=plcp)
 * [Must-watch videos about Python by s16h](https://github.com/s16h/py-must-watch)
-
+* [Get Programming with Python in Motion](https://www.manning.com/livevideo/get-programming-with-python-in-motion)
 ## Editors and IDE's for Python programming
 * [Setting up Sublime Text for Python Development](http://dbader.org/blog/setting-up-sublime-text-for-python-development)
 * [Sublime Text 2 Love by Kenneth Reitz](http://kennethreitz.org/sublime-text-2-love/)
