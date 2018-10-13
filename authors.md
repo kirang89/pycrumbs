@@ -47,3 +47,4 @@
 * Karlijn Willems
 * Vitaly Pavlenko
 * Thawsitt Naing
+* Guillaume Chevalier
