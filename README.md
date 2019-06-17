@@ -564,6 +564,7 @@
 * [Python Resources (All) - Codesters.org](http://web.archive.org/web/20160401215551/http://codesters.org/resource/topic/python/all/)
 * [Learn Python Online](https://www.codementor.io/learn-python-online)
 * [Programming Community Curated Python Tutorials & Courses](https://hackr.io/tutorials/learn-python)
+* [Online Courses](https://classpert.com/python-programming)
 
 ## Newsletters
 * [Pycoder's](http://pycoders.com/)
