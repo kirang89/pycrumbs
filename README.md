@@ -180,6 +180,7 @@
 ## Iterators
 * [Understanding Iterators and Iterables](http://www.shutupandship.com/2012/01/understanding-python-iterables-and.html)
 * [For Loops and Iterators](https://www.codementor.io/python/tutorial/python-generators-and-iterators)
+* [Convolutional loops](https://github.com/guillaume-chevalier/python-conv-lib)
 
 ## Import
 * [A Python Import Tutorial for Beginners](https://www.codementor.io/python/tutorial/python-path-virtualenv-import-for-beginners)
