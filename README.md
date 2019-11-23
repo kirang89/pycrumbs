@@ -357,6 +357,7 @@
 ### API and Web Services
 * [How to access various web services in python](http://www.pythonforbeginners.com/python-on-the-web/how-to-access-various-web-services-in-python/)
 * [Glassdoor API](https://github.com/hackerlist/glassdoor)
+* [Python API Tutorial](https://holypython.com/using-apis-with-python/)
 
 ### Scraping
 * [Web Scraping with BeautifulSoup](http://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup/)
