@@ -48,3 +48,4 @@
 * Vitaly Pavlenko
 * Thawsitt Naing
 * Shey Crompton
+* Cyril Bois
