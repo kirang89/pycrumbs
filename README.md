@@ -99,7 +99,6 @@
 * [PySchools](http://www.pyschools.com/)
 * [Some cool Python Tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks)
 * [if x and if x is not None](http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth)
-* [Better Python APIs](http://ozkatz.github.io/better-python-apis.html)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
@@ -295,7 +294,6 @@
 #### Flask
 * [Flask Mega Tutorial Series](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Designing a RESTful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
-* [Building websites in Python with Flask](http://maximebf.com/blog/2012/10/building-websites-in-python-with-flask)
 * [How I structure my Flask apps](http://web.archive.org/web/20160324134243/http://mattupstate.com/python/2013/06/26/how-i-structure-my-flask-applications.html)
 * [Designing a RESTful API using Flask-RESTful](http://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful)
 * [Rapid Web Prototyping with Lightweight Tools](http://www.pixelmonkey.org/2013/03/13/rapid-web-prototyping-with-lightweight-tools)
@@ -381,7 +379,7 @@
 
 ## GUI Programming
 * [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
-* [PyQt Tutorial](http://zetcode.com/tutorials/pyqt4/)
+* [PyQt5 Tutorial](https://coderslegacy.com/python/pyqt5-tutorial/)
 * [Standalone executable for PyQt4 on Windows](http://www.py2exe.org/index.cgi/Py2exeAndPyQt)
 * [Kivy GUI for cross-platform applications](http://kivy.org/)
 * [EffBot.org Introduction to Tkinter](http://effbot.org/tkinterbook/tkinter-index.htm)
@@ -389,6 +387,9 @@
 * [Intro to programming with Python and Tkinter](https://wiki.python.org/moin/Intro%20to%20programming%20with%20Python%20and%20Tkinter)
 * [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 * [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
+
+## Game Development
+* [Pygame Tutorial](https://coderslegacy.com/python/python-pygame-tutorial/)
 
 ## Android
 ### SL4A
