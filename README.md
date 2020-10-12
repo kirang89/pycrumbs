@@ -151,12 +151,10 @@
 
 ## Decorators
 * [Understanding Python Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
-* [Decorators and Functional Python](http://www.brianholdefehr.com/decorators-and-functional-python)
 * [Common uses of Python decorators - Quora](http://www.quora.com/Python-programming-language-1/What-are-common-uses-of-Python-decorators)
 * [Common uses of Python decorators - Stack Overflow](http://stackoverflow.com/questions/489720/what-are-some-common-uses-for-python-decorators)
 * [Python Decorators](http://pythonconquerstheuniverse.wordpress.com/2012/04/29/python-decorators/)
 * [Decorators I: Introduction to Python Decorators](http://www.artima.com/weblogs/viewpost.jsp?thread=240808)
-* [Decorators and annotations](http://blog.mattalcock.com/2013/1/5/decorates-and-annotations/)
 * [The dark side of decorators](http://apiguy.github.io/blog/2013/06/03/the-dark-side-of-decorators/)
 * [Thinking out aloud: Python decorators](http://curiosityhealsthecat.blogspot.in/2013/06/thinking-out-aloud-python-decorators_8528.html)
 * [Using Python decorators for registering callbacks](http://curiosityhealsthecat.blogspot.in/2013/07/using-python-decorators-for-registering_8614.html)
