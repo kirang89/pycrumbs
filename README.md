@@ -52,6 +52,7 @@
 * [Data Mining](#data-mining)
 * [Data Analysis](#data-analysis)
     * [Pandas](#pandas)
+* [Data Visualization](#data-visualization)  
 * [Deep Learning](#deep-learning)
 * [IPython Notebooks](#ipython-notebooks)
 * [Design Patterns](#design-patterns)
@@ -262,6 +263,7 @@
 * [Py2app: Standalone Mac OS X applications](http://pythonhosted.org/py2app/)
 * [PyInstaller: Stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX](http://www.pyinstaller.org/)
 * [setup.py tricks](http://www.pydanny.com/python-dot-py-tricks.html)
+* [Python Packaging: Quick Tutorial & Checklist](https://holypython.com/python-packaging-quick-tutorial-checklist/)
 
 ## Deployment
 * [Solid Python Deployments for Everybody](http://hynek.me/talks/python-deployments)
@@ -374,6 +376,9 @@
 
 ## Image Processing
 * [Python Image Library - Examples](http://web.archive.org/web/20150814055529/http://www.riisen.dk/dop/pil.html)
+* [Digital Image Basics](https://holypython.com/digital-image-basics-with-pil-library-in-python/)
+* [How to Watermark Images with Python](https://holypython.com/how-to-watermark-images-w-python-pil/)
+
 
 ## GUI Programming
 * [Python.org GUI Overview Page](https://wiki.python.org/moin/GuiProgramming)
@@ -385,6 +390,8 @@
 * [Intro to programming with Python and Tkinter](https://wiki.python.org/moin/Intro%20to%20programming%20with%20Python%20and%20Tkinter)
 * [Tkinter Course - Create Graphic User Interfaces in Python Tutorial](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 * [Python - GUI Programming (Tkinter)](https://www.tutorialspoint.com/python/python_gui_programming.htm)
+* [Creating GUI Programs Fast & Easy Tutorial](https://holypython.com/creating-gui-programs-w-python-fast-easy-pysimplegui/)
+
 
 ## Game Development
 * [Pygame Tutorial](https://coderslegacy.com/python/python-pygame-tutorial/)
@@ -418,6 +425,7 @@
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 * [Python Basics For Data Science](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
 * [SciPy Lecture Notes: One document to learn numerics, science, and data with Python](http://www.scipy-lectures.org/)
+* [Machine Learning Algorithms with Python](https://holypython.com/ml)
 
 ### Pandas
 * [A 10 min intro to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
@@ -425,6 +433,13 @@
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas)
 * [Faster Data Processing in Python](http://nbviewer.ipython.org/github/sanand0/ipython-notebooks/blob/master/Faster%20Data%20Processing%20in%20Python.ipynb)
 * [Learn More About Pandas By Building and Using a Weighted Average Function](http://pbpython.com/weighted-average.html)
+
+## Data Visualization
+* [How to Create Matplotlib Animations](https://holypython.com/how-to-create-matplotlib-animations-the-ultimate-guide/)
+* [How to Save Matplotlib Animations](https://holypython.com/how-to-save-matplotlib-animations-the-ultimate-guide/)
+* [How to Create Plotly Animations](https://holypython.com/how-to-create-plotly-animations-the-ultimate-guide/)
+* [How to Save Plotly Animations](https://holypython.com/how-to-save-plotly-animations-the-ultimate-guide/)
+* [How to Map Charts in Python](https://holypython.com/how-to-create-map-charts-in-python-w-plotly-mapbox/)
 
 ## Deep Learning
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
@@ -604,3 +619,4 @@
 * [Python Algorithm Visualizations done in Python running in the browser](http://pyalgoviz.appspot.com/)
 * [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
 * [IHeartPy!](http://www.iheartpy.com/)
+* [Difference Between 2 Images: Pixel Level Scanning](https://holypython.com/python-code-to-show-the-difference-between-2-images/)
