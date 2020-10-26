@@ -47,4 +47,4 @@
 * Karlijn Willems
 * Vitaly Pavlenko
 * Thawsitt Naing
-* Umut Sagir
+* Zack Whitman
