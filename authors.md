@@ -33,6 +33,7 @@
 * Hariharan Rangasamy
 * Santosh Kumar
 * David Sarma
+* AiFinesse Team
 * Dhiraj Thakur
 * Yang Yang
 * Mushfiq-E Mahabub
