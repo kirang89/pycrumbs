@@ -424,6 +424,7 @@
 * [Data Science with Python & R: Sentiment Classification Using Linear Methods](https://www.codementor.io/python/tutorial/data-science-python-r-sentiment-classification-machine-learning)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 * [Python Basics For Data Science](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics)
+* [Machine Learning Algorithms with Python Examples](https://www.aifinesse.com/)
 * [SciPy Lecture Notes: One document to learn numerics, science, and data with Python](http://www.scipy-lectures.org/)
 * [Machine Learning Algorithms with Python](https://holypython.com/ml)
 
