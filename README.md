@@ -118,6 +118,7 @@
 * [Visualize your Python code being executed](http://www.pythontutor.com/visualize.html)
 * [Snakify - a tutorial with exercises and a visual debugger](https://snakify.org/)
 * [Learn programming with curated Python projects - DevProjects](https://www.codementor.io/projects/python)
+* [Scaler Topics Python Tutorials](https://www.scaler.com/topics/python/)
 ## Resources for Women
 * [Pyladies](http://www.pyladies.com/)
 * [Diversity in Python Community](https://www.python.org/community/diversity/)
