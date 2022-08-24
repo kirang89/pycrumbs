@@ -325,7 +325,6 @@
 * [Tango with Django](http://www.tangowithdjango.com/book/)
 * [Django Screencasts](https://godjango.com/)
 * [Let’s TDD a Simple App in Django](http://web.archive.org/web/20131212220546/http://pypix.com/django/tdd-in-django/)
-* [Django runserver and stunnel for testing HTTPS](http://mgile.com/post/4729505823/django-stunnel)
 * [Scaling database with Django and HAProxy](http://engineering.hackerearth.com/2013/10/07/scaling-database-with-django-and-haproxy/)
 * [Classy Class-Based Views](http://ccbv.co.uk/)
 * [Django models, encapsulation and data integrity](http://www.dabapps.com/blog/django-models-and-encapsulation/)
