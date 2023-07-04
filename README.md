@@ -54,6 +54,7 @@
     * [Pandas](#pandas)
 * [Data Visualization](#data-visualization)  
 * [Deep Learning](#deep-learning)
+    * [Generative AI](#generative-ai)
 * [IPython Notebooks](#ipython-notebooks)
 * [Design Patterns](#design-patterns)
     * [Concurrency Patterns](#concurrency-patterns)
@@ -445,6 +446,9 @@
 * [Build your first Neural Network with Python and Keras](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Python implementation of several famous Deep Learning papers](https://github.com/fchollet/keras/tree/master/examples)
+
+### Generative AI
+* [joliGEN - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications](https://github.com/jolibrain/joliGEN)
 
 ## IPython Notebooks
 * [A Gallery of Interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
