@@ -99,7 +99,7 @@
 * [Common newbie mistakes in Python- Part 2](http://blog.amir.rachum.com/post/55024295793/python-common-newbie-mistakes-part-2)
 * [PySchools](http://www.pyschools.com/)
 * [Some cool Python Tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks)
-* [if x and if x is not None](http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth)
+* [if x and if x is not None](https://amirrachum.com/you-cant-handle-the-truth/)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
 * [Storing and Loading Data with JSON - Serialization/deserialization](http://freepythontips.wordpress.com/2013/08/08/storing-and-loading-data-with-json/)
 * [A Guide to Python's Magic Methods](http://www.rafekettler.com/magicmethods.html)
@@ -108,7 +108,7 @@
 * [Building an open-source Python application the right way](http://kirang.in/2013/09/09/building-an-open-source-python-application-the-right-way/)
 * [Python progression path - From apprentice to guru](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
 * [Tutorialspoint python tutorial](http://www.tutorialspoint.com/python/)
-* [Python Importing](http://blog.amir.rachum.com/post/63666832095/python-importing)
+* [Python Importing](https://amirrachum.com/python-importing)
 * [Python's super() considered super!](http://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
 * [No Naked Excepts](http://www.wilfred.me.uk/blog/2013/11/03/no-naked-excepts/)
 * [Supercharge Your Python Developers](http://www.jeffknupp.com/blog/2013/11/15/supercharge-your-python-developers/)
@@ -146,9 +146,9 @@
 * [Docstring Conventions](http://www.python.org/dev/peps/pep-0257/)
 
 ## Dictionary
-* [Python hash, id and dictionary order](http://blog.amir.rachum.com/post/54458435089/python-hash-id-and-dictionary-order)
+* [Python hash, id and dictionary order](https://amirrachum.com/python-hash-id-and-dictionary-order/)
 * [Notes on dictionary implementation](http://bugs.python.org/file6941/dictnotes.txt)
-* [Python: The Dictionary Playbook](http://blog.amir.rachum.com/post/39501813266/python-the-dictionary-playbook)
+* [Python: The Dictionary Playbook](https://amirrachum.com/python-the-dictionary-playbook/)
 
 ## Decorators
 * [Understanding Python Decorators in 12 easy steps](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
