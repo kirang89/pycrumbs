@@ -97,7 +97,7 @@
 * [In Python, it’s all about the attributes](http://blog.lerner.co.il/python-attributes/)
 * [Common newbie mistakes in Python- Part 1](http://blog.amir.rachum.com/post/54770419679/python-common-newbie-mistakes-part-1)
 * [Common newbie mistakes in Python- Part 2](http://blog.amir.rachum.com/post/55024295793/python-common-newbie-mistakes-part-2)
-* [PySchools](http://www.pyschools.com/)
+* [Coddy Python course](https://coddy.tech/landing/python)
 * [Some cool Python Tricks](http://www.quora.com/Python-programming-language-1/What-are-some-cool-Python-tricks)
 * [if x and if x is not None](http://blog.amir.rachum.com/post/30176371115/you-cant-handle-the-truth)
 * [Declaring dependencies in Python](http://blog.ziade.org/2013/04/13/declaring-dependencies-in-python/)
